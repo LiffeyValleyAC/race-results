@@ -5,7 +5,7 @@ Race results in CSV format to make them easier to import and analyse.
 Race | Date | Original Results | Status
 -----|------|------------------|-------
 National Masters XC men | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/Master_Men_35-65_Updated3.pdf) (pdf) | Not started
-National Masters XC O65 men | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/Master_Men_O651.pdf) (pdf) | Not started
+National Masters XC O65 men | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/Master_Men_O651.pdf) (pdf) | Finished
 National Masters XC women | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/W_Final.pdf) (pdf) | Not started
 National Intermediate XC men | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/Intermediate_Men.pdf) (pdf) | Not Started
 National Intermediate XC women | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/Intermediate_Women.pdf) (pdf) | Finished
