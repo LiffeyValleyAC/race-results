@@ -7,7 +7,7 @@ Race | Date | Original Results | Status
 National Senior XC women | 2015-03-01 | [precision timing](http://www.precisiontiming.net/result.aspx?v=2463) | Finished
 National Senior XC men | 2015-03-01 | [precision timing](http://www.precisiontiming.net/result.aspx?v=2464) | Finished
 Leinster Senior XC women | 2015-01-18 | [Leinter Athletics](http://athleticsleinster.org/images/results/Leinster%20Senior%20Ladies%20Individual%20Club%20and%20County.pdf) | Finished
-Leinster Senior XC men | 2015-01-18 | [Leinter Athletics](http://athleticsleinster.org/images/results/Leinster%20Senior%20Men%20Individual%20Club%20and%20County.pdf) | Not Started
+Leinster Senior XC men | 2015-01-18 | [Leinter Athletics](http://athleticsleinster.org/images/results/Leinster%20Senior%20Men%20Individual%20Club%20and%20County.pdf) | Finished
 National Masters XC men | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/Master_Men_35-65_Updated3.pdf) (pdf) | Not started
 National Masters XC O65 men | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/Master_Men_O651.pdf) (pdf) | Finished
 National Masters XC women | 2015-02-08 | [AAI site](http://www.athleticsireland.ie/downloads/other/W_Final.pdf) (pdf) | Finished
