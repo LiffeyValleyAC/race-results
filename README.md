@@ -4,6 +4,7 @@ Race results in CSV format to make them easier to import and analyse.
 
 Race | Date | Original Results | Status
 -----|------|------------------|-------
+Tome Brennan 5k | 2015-01-01 | [precision timing](http://www.precisiontiming.net/result.aspx?v=2289) | Not started
 National Senior XC women | 2015-03-01 | [precision timing](http://www.precisiontiming.net/result.aspx?v=2463) | Finished
 National Senior XC men | 2015-03-01 | [precision timing](http://www.precisiontiming.net/result.aspx?v=2464) | Finished
 Leinster Senior XC women | 2015-01-18 | [Leinter Athletics](http://athleticsleinster.org/images/results/Leinster%20Senior%20Ladies%20Individual%20Club%20and%20County.pdf) | Finished
