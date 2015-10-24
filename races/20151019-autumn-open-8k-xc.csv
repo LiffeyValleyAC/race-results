@@ -1,0 +1,134 @@
+Place,Number,Name,Sex,Category,Club,Time
+1,2090,Brandon Hargreaves,m,SM,Dundrum South Dublin,25:36
+2,1229,John Coghlan,m,SM,Metro St. Brigids A.C.,25:51
+3,1387,Kevin Mulcaire,m,JM,Ennis Track A.C.,26:02
+4,1235,Brian Maher,m,SM,Kilkenny City Harriers,26:03
+5,1219,Kevin Maunsell,m,SM,Clonmell A.C.,26:03
+6,1220,William Maunsell,m,SM,Clonmell A.C.,26:21
+7,1244,Mark Kenneally,m,SM,Clonliffe Harriers A.C.,26:27
+8,2082,Colm Sheehan,m,SM,Leevale A.C.,26:30
+9,1403,Jayme Rossiter,m,SM,Clonliffe Harriers A.C.,26:33
+10,1358,Michael Harty,m,M35,East Cork A.C.,26:33
+11,1209,Darragh Rennicks,m,SM,Bohermeen A.C.,26:36
+12,1254,Paddy Roche,m,SM,Naas A.C.,26:50
+13,1343,Keith Fallon,m,SM,Galway City Harriers A.C.,27:01
+14,1339,Conor Duffy,m,SM,Glaslough Harriers A.C.,27:04
+15,1258,Ciaran Dohery,m,M40,Letterkenny A.C.,27:19
+16,1231,Stuart Moloney,m,M35,Mooreabbey Milers A.C.,27:21
+17,1389,Rick Nally,m,SM,Dundrum South Dublin A.C.,27:22
+18,1382,Michael McMahon,m,M35,Donore Harriers,27:24
+19,1397,Mark O'Sullivan,m,SM,Bandon A.C.,27:24
+20,1328,Michael Carmody,m,SM,An Brú A.C.,27:25
+21,1375,Brian Mc Cluskey,m,M40,North East Runners A.C.,27:26
+22,2049,Tim Twomey,m,M35,Leevale A.C.,27:28
+23,1319,Peter Arthurs,m,SM,Liffey Valley A.C.,27:30
+24,1366,Kevin Kelly,m,SM,St. Coca's A.C.,27:42
+25,1332,Robert Corbally,m,SM,Dundrum South Dublin A.C.,27:45
+26,2083,Eric Curran,m,SM,Leevale A.C.,27:51
+27,1230,Michael O'Connor,m,M40,Galway City Harriers A.C.,27:53
+28,1331,Kevin Chesser,m,SM,Ennis Track A.C.,28:00
+29,1370,Stephen Lawlor,m,SM,St. Abbans A.C.,28:07
+30,2008,Niall Sheil,m,M35,St Killians,28:08
+31,2038,Danny Mooney,m,SM,Letterkenny A.C.,28:09
+32,1239,Karol Cronin,m,SM,Sportsworld A.C.,28:11
+33,1405,David Scanlon,m,SM,Rathfarnham W.S.A.F. A.C.,28:13
+34,1337,Aaron Doherty,m,M35,City of Derry AC,28:15
+35,1257,Paul Buckley,m,M35,Spartans Ferbane A.C.,28:16
+36,1372,Niall Lynch,m,M40,Donore Harriers,28:20
+37,1249,Killian Gargan,m,SM,St. Malachys A.C.,28:21
+38,2085,Peter O'Sullivan,m,M40,Craughwell A.C.,28:27
+39,2078,Eddie O'Neill,m,M35,Tinryland A.C.,28:28
+40,1393,Kevin Oconnor,m,M45,Dundrum South Dublin A.C.,28:33
+41,1261,Paul Fleming,m,M40,Rathfarnham WSAF,28:36
+42,2094,Damien Lawless,m,M40,Sli Cualann A.C.,28:37
+43,2074,Stephen Hunter,m,SM,St. Michaels A.C.,28:42
+44,939,Rory Kavanagh,m,SM,Dunboyne AC,28:45
+45,1374,Ciaran Mc Carthy,m,M40,Donore Harriers,28:50
+46,1232,Tony Reilly,m,M45,Portlaoise A.C.,28:51
+47,2098,Paul Smith,m,M35,Drogheda & District A.C.,29:04
+48,1327,Pat Byrne,m,M40,Tinryland A.C.,29:08
+49,1353,Phelim Glynn,m,M50,Dunboyne A.C.,29:17
+50,1349,Myles Gibbons,m,M40,Sliabh Bhuide Rovers A.C.,29:17
+51,1386,Chris Morgan,m,SM,Liffey Valley A.C.,29:18
+52,2069,Phil Kilgannon,m,M35,Sportsworld A.C.,29:22
+53,2092,Ann Marie McGlynn,w,SW,Letterkenny A.C.,29:24
+54,1243,Frank Hayes,m,M45,East Cork A.C.,29:25
+55,1325,Aengus Burke,m,M50,Portlaoise A.C.,29:27
+56,1333,Cyril Cuddy,m,M40,Portlaoise A.C.,29:33
+57,1246,Damien Martin,m,M50,Raheny Shamrock A.C,29:33
+58,907,John Mc Grath,m,M40,United Striders,29:33
+59,2001,Ronan Kearns,m,M35,Rathfarnham WSAF A.C.,29:36
+60,2089,Daniel Hannigan,m,SM,Letterkenny A.C.,29:37
+61,1368,Paddy Kelly,m,SM,Mullingar Harriers A.C.,29:38
+62,1351,Mark Gleeson,m,M50,Nenagh Olympic A.C.,29:38
+63,2072,Shona Heaslip,w,SW,An Riocht A.C.,29:39
+64,1356,Mark Hackett,m,M40,St. Michael's AC,29:40
+65,2068,Noel Marum,m,M45,Portlaoise A.C.,29:42
+66,1355,Mike Griffin,m,M35,Liffey Valley A.C.,29:45
+67,1340,Liam Dunne,m,M40,,29:46
+68,1224,David Kirwin,m,M35,Raheny Shamrock A.C,29:47
+69,1399,Thomas Payne,m,M55,Tinryland A.C.,29:48
+70,2050,David Comber,m,SM,Leevale A.C.,29:50
+71,1390,Eddie Newman,m,M50,Mullingar Harriers A.C.,29:51
+72,1259,Teresa Doherty,w,SW,Finn Valley A.C.,29:53
+73,1240,Sean Doran,m,SM,Clonliffe Harriers A.C.,29:55
+74,1384,Roibeard Miller,m,M40,Ballyfin A.C.,29:58
+75,908,Peter Melarkey,m,SM,City of Derry AC Spartans,30:08
+76,1402,Ciaran Reilly,m,M40,Liffey Valley A.C.,30:08
+77,1412,David Walsh,m,SM,Drogheda & District A.C.,30:09
+78,2099,Patrick O'Grady,m,M50,Drogheda & District,30:11
+79,1241,Siobhan O'Doherty,w,SW,Borrisokane A.C.,30:13
+80,1260,Ronan Duggan,m,SM,Bandon A.C.,30:15
+81,1381,Justin McKeever,m,M40,Sportsworld A.C.,30:16
+82,1323,Aaron Brown,m,SM,Rathfarnham W.S.A.F. A.C.,30:16
+83,1212,James McCormack,m,M45,Portlaoise A.C.,30:18
+84,2040,Kieran Hurley,m,M35,City of Derry A.C.,30:21
+85,1400,Donagh Powell,m,SM,Rathfarnham W.S.A.F. A.C.,30:23
+86,1330,Michael Cassidy,m,SM,Clonliffe Harriers A.C.,30:26
+87,1322,Raymond Birch,m,M35,Letterkenny A.C.,30:30
+88,1255,Paul Cowhie,m,M50,Civil Service A.C.,30:31
+89,1262,Patrick Muldoon,m,SM,Mullingar Harriers,30:42
+90,1336,Romain Denis,m,M35,Dundrum South Dublin A.C.,30:46
+91,1376,Conor McCarthy,m,SM,Sportsworld A.C.,30:46
+92,1396,Maria Louise O'Sullivan,w,SW,,30:52
+93,2084,Kieran Carlin,m,M45,Finn Valley A.C.,30:52
+94,1238,Trevor Corcoran,m,SM,St. L. O'Toole A.C.,30:54
+95,1248,Tom O'Connor,m,M55,Liffey Valley A.C.,31:07
+96,1223,Ger Maloney,m,M55,St. Pauls A.C.,31:12
+97,2018,Padraig Moriarity,m,M50,St. Killians A.C.,31:12
+98,2091,Rachael Smyth,w,SW,St. Cocas A.C.,31:14
+99,1338,Sara Doohan,w,SW,Corran A.C.,31:20
+100,1406,Mark Sheridan,m,M35,Dundrum South Dublin A.C.,31:28
+101,1218,Alan Dalton,m,M40,Sli Cualann A.C.,31:33
+102,1379,Martin McDonald,m,M55,,31:40
+103,2055,Brian Lynch,m,M60,Northeast Runners,31:46
+104,1378,Sean McDermott,m,M40,Castlegar A.C.,31:47
+105,1398,John Parker,m,SM,Liffey Valley A.C.,31:49
+106,2061,Paul Elliot,m,M60,North Belfast Harriers,31:53
+107,1409,Roman Soltys,m,SM,Liffey Valley A.C.,31:57
+108,1365,Fiona Kehoe,w SW,Kilmore A.C.,32:03
+109,1411,Ray Thornberry,m,M50,Dundrum South Dublin A.C.,32:21
+110,1404,Meghan Ryan,w SW,Dundrum South Dublin A.C.,32:25
+111,2086,Michael Magee,m,M45,Beechmount Harriers,32:43
+112,1363,Martin Keenan,m,M45,Sportsworld A.C.,32:48
+113,2048,Mark Bickerdike,m,M50,Leevale A.C.,32:52
+114,2051,John Collins,m,M55,Leevale A.C.,32:58
+115,1341,Elizabeth Egan,w W35,Bree A.C.,32:59
+116,1401,Jim Quinn,m,M45,Dundrum South Dublin A.C.,33:05
+117,1371,Anne Linden,w SW,Carrick Aces A.C.,33:09
+118,1380,Edward McEntee,m,M45,,33:19
+119,1335,Daniel Delaney,m,M45,Star of the Sea A.C.,33:19
+120,2079,Eddie Walsh,m,M55,Tinryland A.C.,33:34
+121,1344,Michael Fennell,m,M55,Civil Service A.C.,33:42
+122,2021,Eamonn Mc Evoy,m,M60,St. Finbars,33:50
+123,1346,Paul Fleming,m,M40,Rathfarnham W.S.A.F. A.C.,34:20
+124,1347,Sally Forristal,w W35,St. Joseph's A.C.,34:27
+125,1385,Tom Monks,m,M50,Clonliffe Harriers A.C.,34:41
+126,1256,Michael Gygax,m,M50,Raheny Shamrock A.C,34:52
+127,1407,Javier Silvan,m,M35,Liffey Valley A.C.,35:34
+128,2081,Terry Kavanagh,m,M60,Sli Cualann A.C.,36:00
+129,1236,Damiern Molloy,m,M45,Dublin Front Runners,37:26
+130,2023,Conor Cooney,m,M60,Drogheda & District,37:42
+131,2054,Hugh Gallagher,m,M60,Letterkenny A.C.,38:21
+132,1388,Frankie Murray,m,M55,Finn Valley A.C.,42:27
+133,2015,Kerry Constant,m,M60,,44:27
