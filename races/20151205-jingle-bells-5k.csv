@@ -1,0 +1,799 @@
+Pos,Bib,Name,Category,Club,Time
+1,1,John Travers,MO,Donore Harriers,14:44
+2,988,Kevin Maunsell,MO,Clonmel AC,14:55
+3,574,Andrew Connick,MO,Ferrybank AC,15:09
+4,985,Tom Moran,MO,Dunshaughlin ac,15:10
+5,205,Garry Campbell,MO,Dunleer A.C.,15:16
+6,943,Ray Hynes,MO,Donore Harriers,15:17
+7,1041,Late Entry,15:20
+8,1046,Paul Stephenson,MO,Rathfarnham WSAF AC,15:23
+9,316,Peter Arthur,MO,Liffey Valley AC,15:24
+10,740,David Scanlon,MO,Rathfarnham WSAF AC,15:24
+11,666,Daragh Fitzgibbon,MO,Donore Harriers,15:26
+12,2,Freddy Sittuk,MO,Raheny shamrock,15:27
+13,445,Brian Flanagan,MO,Clonliffe Harriers,15:41
+14,478,Karol Cronin,MO,Sportsworld A.C.,15:59
+15,1048,Simon Ryan,MO,Raheny shamrock,16:00
+16,980,Damien cauvet,MO,Liffey Valley AC,16:04
+17,467,Eoghain McGinley,MO,,16:07
+18,6,Ciara Mageean,FO,UCD,16:16
+19,665,Patrick Cassidy,M35,glaslough harriers,16:20
+20,488,Laura Crowe,FO,An Riocht,16:22
+21,860,Paul Smith,M35,Drogheda and District AC,16:24
+22,5,Mary Cullen,FO,North Sligo,16:26
+23,115,Barry Sheil,M35,,16:26
+24,946,Féidhlim McGowan,MO,Trinity College (DUHAC),16:26
+25,936,Niall Cornyn,MO,Dunboyne,16:28
+26,525,Thomas Sherlock,MO,Clonliffe Harriers,16:29
+27,1026,Damien Martin,M50,Raheny shamrock,16:31
+28,1050,Fiachra MacDomhnaill,M36,West Limerick Ac,16:33
+29,1056,Feidhlim Kelly,MO,,16:37
+30,922,Shane O'Rahilly,MO,North Cork AC,16:39
+31,934,Ciaran Reilly,M40,Liffey Valley AC,16:42
+32,1044,Peter Caffrey,MO,MSB,16:51
+33,257,Wesley O Brien,M35,Raheny shamrock,16:52
+34,960,Chris Morgan,MO,Liffey Valley AC,16:53
+35,1015,Billy Hanley,M40,Liffey Valley AC,16:54
+36,367,cyril cuddy,M40,Portlaoise Ac,16:55
+37,323,Paul Cowhie,M50,Civil service harriers,16:57
+38,962,Seán Mac Seoin,M40,MSB,17:00
+39,662,Colm Fitzgerald,M35,Portlaoise Ac,17:08
+40,881,Terry Brady,MO,Brothers Pearse AC,17:08
+41,628,Michael Freeley,M35,Rathfarnham WSAF AC,17:12
+42,572,Noel Marum,M45,Portlaoise Ac,17:14
+43,489,Sinead O Connor,FO,Leevale,17:15
+44,989,Gavin Curran,M35,Liffey Valley AC,17:15
+45,690,RUBEN BARROSO,M35,Portlaoise Ac,17:18
+46,984,Cillian Browne,MO,Sli Cualann,17:18
+47,949,Alan Kenny,M35,Dunboyne,17:20
+48,641,David Mc Evoy,MO,Leevale,17:23
+49,972,Brian Gallagher,MO,Ferrybank AC,17:24
+50,700,Declan Newman,M35,,17:26
+51,619,Jason Reilly,MO,,17:27
+52,626,James Callaghan,MO,Sligo AC,17:32
+53,814,Ian O' Reilly,M40,Drogheda and District AC,17:32
+54,1016,Patrick Holden,M35,Lucan Harriers,17:33
+55,568,Pat Fitzpatrick,M40,Dunleer A.C.,17:34
+56,925,Kate O' Neill,FO,MSB,17:35
+57,158,Darragh Hanley,M40,MSB,17:36
+58,352,Anthony Connolly,MO,Dunleer A.C.,17:37
+59,538,Richie Reid,M40,Portlaoise Ac,17:37
+60,55,Andrew Moore,MO,Civil service harriers,17:39
+61,439,Paul Balfe,M40,Liffey Valley AC,17:40
+62,678,Peter Kern,M40,PB3 Coaching,17:44
+63,928,Conor Brennan,MO,,17:47
+64,1001,Pearse ahern,M45,Rathfarnham WSAF AC,17:52
+65,137,chris tighe,M35,Brothers Pearse AC,17:54
+66,500,Michael Gibbs,MO,Donore Harriers,17:59
+67,305,Michael Fitzsimons,M35,Crusaders,18:01
+68,895,Paul Spollen,M35,MSB,18:01
+69,930,Conor Fitzpatrick,MO,Portmarnock AFC,18:05
+70,382,Paula Grant,F40,Portlaoise Ac,18:06
+71,1062,Ide Nic Dhomhnaill,FO,Donore Harriers,18:08
+72,975,Jonathan Maguire,MO,Piranha Tri,18:09
+73,273,paul martin,MO,Brothers Pearse AC,18:10
+74,1061,Sorcha Nic Dhomhnaill,FO,Donore Harriers,18:11
+75,873,Stephen Duggan,M35,Drogheda and District AC,18:12
+76,999,John Parker,MO,Liffey Valley AC,18:12
+77,618,David Cahill,M35,3D Tri,18:13
+78,383,sharon grant,F35,Portlaoise Ac,18:15
+79,311,Anna Sadowska,F35,Civil service harriers,18:16
+80,1047,Carol Finn,FO,Leevale  Ac,18:16
+81,537,Ronan Devoy,M40,Portlaoise Ac,18:17
+82,585,Kieran Martin,M35,Crusaders,18:17
+83,932,Gareth Fereday,MO,Lucan Harriers,18:19
+84,687,Tom Tennant,M35,,18:20
+85,556,Dave Carroll,M50,MSB,18:21
+86,714,John Clarke,M35,Raheny shamrock,18:24
+87,479,Kevin McKeever,M35,,18:27
+88,990,David grange,M40,Raheny shamrock,18:27
+89,909,Conor Reilly,MO,Liffey Valley AC,18:28
+90,998,Clément Roux,MO,Liffey Valley AC,18:28
+91,418,Ruaidhri Nolan,MO,Drogheda and District AC,18:29
+92,878,Stephen O’Sullivan,M35,Brothers Pearse AC,18:30
+93,415,Cathal Mullin,M35,,18:31
+94,924,Michael Casserly,MO,,18:33
+95,675,Emma Donlon,MO,MSB,18:34
+96,699,john cullen,M60,Liffey Valley AC,18:38
+97,58,John Hough,M40,Drogheda and District AC,18:40
+98,116,James Mac Mahon,MO,,18:43
+99,664,Matthew Blyth,M35,Liffey Valley AC,18:43
+100,663,Sean Kinnane,M50,Dunboyne,18:44
+101,99,Michael Wycherley,M40,Crusaders,18:45
+102,1012,Colm Brody,M35,,18:47
+103,233,Terry McLoughlin,MO,,18:52
+104,63,Billy Loughman,M35,Tallaght,18:53
+105,101,John Thuillier,MO,Crusaders,18:53
+106,601,Síle Carroll,FO,Liffey Valley AC,18:53
+107,1052,Vincent McCormack,M40,Newbridge Ac,18:53
+108,531,Donal Healy,M40,,18:54
+109,958,Declan Bolton,M45,MSB,18:54
+110,557,Niamh Stein,F35,,18:56
+111,14,Denis Daly,M45,Rathfarnham WSAF AC,18:58
+112,704,Aaron Reen,MO,Skerries Athletics Club,18:59
+113,56,Shane Larkin,M40,Drogheda and District AC,19:01
+114,825,John Reilly,M45,Drogheda and District AC,19:01
+115,496,Sean Ryan,M50,Civil service harriers,19:03
+116,864,Robbie Maher,M45,Drogheda and District AC,19:03
+117,981,Tony Dunne,M50,Liffey Valley AC,19:05
+118,600,Owen Fletcher,MO,,19:06
+119,213,Mark Mohan,M40,MSB,19:07
+120,642,Philip O Riordan,MO,Leevale,19:14
+121,79,Martin Prunty,M35,Civil service harriers,19:16
+122,858,Paul McCabe,M45,Drogheda and District AC,19:17
+123,27,Mark Carroll,MO,Dunleer A.C.,19:18
+124,227,Colm Carey,M35,Lucan Harriers,19:19
+125,469,Derek Lynch,M40,Lucan Harriers,19:19
+126,839,Mary Leech,F40,Drogheda and District AC,19:23
+127,913,Mark Woodger,M45,MSB,19:26
+128,142,Adam Lawlor,MO,Dublin Striders A C,19:29
+129,701,Ciaran Ganley,MO,3D Tri,19:29
+130,526,Niall Sherlock,MO,Clonliffe Harriers,19:32
+131,659,David Bolger,M35,,19:33
+132,933,Paul O'Neill,MO,Civil service harriers,19:34
+133,475,Roisin Hughes,F35,North Belfast Harriers,19:35
+134,640,Niamh Boland,FO,Crusaders,19:36
+135,897,Michael Lillis,M35,,19:37
+136,278,Glenn Lawrence,MO,Santa's Speedsters,19:38
+137,899,Ciara Cummins,FO,Nenagh Olympic,19:42
+138,181,Michael Kenny,MO,MSB,19:43
+139,265,james cottle,M55,Crusaders,19:43
+140,559,Anthony Kinane,M45,,19:44
+141,674,Kevin Deery,M35,Dunboyne,19:44
+142,466,David Ryan,M40,,19:51
+143,608,Breda Daly,F40,,19:52
+144,850,Noreen Mackey,FO,Drogheda and District AC,19:53
+145,903,nick devery,M50,Civil service harriers,19:56
+146,267,Keith Geoghegan,MO,North East Runners,19:57
+147,693,Ray Brady,M35,,19:57
+148,584,Susan McDonnell,F35,,19:58
+149,293,Eimear English,FO,,19:59
+150,739,Daniel Keogh,M45,Rathfarnham WSAF AC,20:00
+151,846,Michelle Hughes,F40,Drogheda and District AC,20:00
+152,126,Kevin Clancy,M40,Dunboyne,20:01
+153,623,Peter Hearty,M35,Duleek and District AC,20:03
+154,658,Gerry Flaherty,M45,Blackrock AC,20:03
+155,428,Aisling Jordan,FO,,20:04
+156,798,Ciara O' Reilly,F35,Drogheda and District AC,20:04
+157,876,Yasmin Canning,F40,Drogheda and District AC,20:04
+158,128,David Doyle,M35,Duleek and District AC,20:05
+159,156,David Shiel,M40,DDAC,20:06
+160,667,Paul Cullen,M50,Civil service harriers,20:07
+161,650,Alan Moynihan,MO,,20:08
+162,198,Val Gough,M35,Annalee AC,20:09
+163,412,Sarah Fay,FO,MSB,20:09
+164,633,Mark Toher,M35,Liffey Valley AC,20:09
+165,997,Aisling Ahern,FO,DUHAC,20:09
+166,968,George Brady,M35,Donore Harriers,20:10
+167,1020,Chris Dalton,M40,Tallaght Ac,20:11
+168,995,Martin Dorgan,M45,Liffey Valley AC,20:14
+169,676,Eoin Comerford,MO,,20:18
+170,969,Keith Hyland,M40,MSB,20:18
+171,511,Joe Murphy,MO,Donore Harriers,20:21
+172,880,Tony Connolly,M50,Brothers Pearse AC,20:22
+173,578,Fintan O'Connor,M35,,20:23
+174,563,Pat Naughton,M50,,20:24
+175,446,Sean Kildunne,M40,MSB,20:25
+176,534,Gareth Mc evoy,M35,,20:27
+177,118,Aidan Curran,M35,Sportsworld A.C.,20:31
+178,736,Shirley Mitchell,F40,Civil service harriers,20:32
+179,1057,Bryan Lynch,M35,,20:32
+180,603,Vincent O'Neill,M60,Civil service harriers,20:33
+181,677,David Murillo,MO,,20:34
+182,221,Brendan Maher,M55,Esker Running Group,20:35
+183,594,mary watters,F50,navan ac,20:36
+184,617,keith farrell,M35,Civil service harriers,20:36
+185,620,willie brazil,M40,,20:37
+186,474,pat collins,M65,Liffey Valley AC,20:38
+187,614,Sharon Tighe,F45,Tallaght,20:38
+188,882,Sorcha McCann,FO,Brothers Pearse AC,20:39
+189,837,Martin Duffy,M50,Drogheda and District AC,20:40
+190,862,Pol O   Muchu,M35,Drogheda and District AC,20:40
+191,898,Mairead O'Shaughnessy,FO,Civil service harriers,20:40
+192,983,andrew davies,M50,Civil service harriers,20:40
+193,908,Nicole Kenny,FO,DSD,20:41
+194,920,Michael Furlong,M45,MSB,20:44
+195,173,John O' Gorman,M40,Brothers Pearse AC,20:46
+196,669,jean mcevoy,F40,Ballyroan / Abbeyleix and District,20:48
+197,800,Conor Cooney,M60,Drogheda and District AC,20:48
+198,974,Paul O'Neill,MO,Donore Harriers,20:48
+199,239,massimo franzina,M40,Esker Running Group,20:49
+200,364,Brendan McLoughlin,M40,,20:49
+201,668,Laura Cullen,FO,Civil service harriers,20:50
+202,715,Joe Walsh,M35,Crusaders,20:50
+203,579,John O'Sullivan,M35,,20:51
+204,929,Sergei Gordienok,MO,Liffey Valley AC,20:52
+205,51,Brian Scanlan,M35,,20:53
+206,297,james berry,MO,DSD,20:53
+207,680,Helen Carr,F40,Raheny shamrock,20:53
+208,733,Stephen McCann,M45,,20:55
+209,151,David Culligan,MO,MSB,20:56
+210,199,Barry O'Reilly,M40,Annalee AC,20:57
+211,577,Ben McGettigan,MO,,20:57
+212,973,Niamh O'Neill,FO,Donore Harriers,20:57
+213,381,Declan Coughlan,M40,Star of the Sea,21:00
+214,865,Roger Tegart,M45,Drogheda and District AC,21:01
+215,1065,Hugh Callan,MO,,21:03
+216,815,Jackser Reilly,M55,Drogheda and District AC,21:07
+217,70,Denis Murphy,M50,Crusaders,21:09
+218,87,Anne Mc Comish,M45,,21:09
+219,863,Rob Power,M35,Drogheda and District AC,21:09
+220,244,conor kenny,M55,Sportsworld A.C.,21:10
+221,424,Ciara O'Neill,FO,MSB,21:10
+222,492,Geraldine Feely,F35,Liffey Valley AC,21:12
+223,657,Sheelagh Jones,F55,DSD,21:12
+224,454,Nigel Elliott,MO,,21:18
+225,580,Marc Lennon,MO,3d Tri,21:19
+226,326,Donal Foley,M40,Crusaders,21:21
+227,732,Fiona Shine,FO,Crusaders,21:22
+228,20,Brian Guilfoyle,M40,Drogheda and District AC,21:28
+229,1011,Philip Martyn,MO,,21:31
+230,774,Padraic McCabe,M45,Drogheda & District AC Couch to 5k,21:32
+231,320,John Slater,MO,,21:34
+232,468,GILLIAN FARRELLY,M35,,21:35
+233,275,Paul Lord,M45,Dunboyne,21:38
+234,987,Sandra Fitzpatrick,F40,Ballyroan / Abbeyleix and District,21:39
+235,429,Brendan Glynn,MO,,21:41
+236,877,Sarah O'Meara,F35,Brothers Pearse AC,21:41
+237,61,Ciaran Fitzgibbon,MO,,21:43
+238,100,Mark Barr,M35,,21:43
+239,822,Jim Nolan,M50,Drogheda and District AC,21:44
+240,453,Bláthnaid ní Ghréacháin,F40,MSB,21:45
+241,851,Nuala Reilly,F55,Drogheda and District AC,21:45
+242,349,David Sanchez,M35,,21:46
+243,336,Scott Bryan,M35,3d Tri,21:47
+244,527,Ciara Devitt,F35,Dunboyne,21:47
+245,57,Aoife Quinn,M35,Crusaders,21:48
+246,217,Carol Dempsey,F50,Dempsey,21:49
+247,695,daniel brady,MO,Donore Harriers,21:50
+248,1023,Aoife Carragher,FO,Civil service harriers,21:51
+249,493,Linda Spratt,F45,,21:56
+250,330,Jarleth Heneghan,M45,,21:58
+251,794,Carmel Keenan,F40,Drogheda and District AC,21:59
+252,425,Michael Mc Fadden,M35,,22:01
+253,277,David Green,M50,Santa's Speedsters,22:02
+254,957,Emer Kenny,FO,Crusaders,22:04
+255,853,Orla O' Connor,FO,Drogheda and District AC,22:05
+256,879,Ciara Bradley,F35,Brothers Pearse AC,22:07
+257,543,nicola Kavanagh,F35,Esker Running Group,22:08
+258,363,Sebastian Kondol,M35,,22:09
+259,586,Patrick Reilly,M65,Liffey Valley AC,22:10
+260,844,Michael Walker,MO,Drogheda and District AC,22:12
+261,36,Karima Coquart,M40,MSB,22:14
+262,660,Clare kavanagh,F45,Liffey Valley AC,22:14
+263,542,Neal Leddy,M40,Marathon Club Ireland,22:15
+264,947,Stephen Coughlan,M50,Liffey Valley AC,22:19
+265,388,Robert Hallinan Flood,MO,,22:20
+266,612,Joe Gleeson,M40,,22:23
+267,438,Darren Maguire,MO,Drogheda and District AC,22:25
+268,1027,Bernie McEvoy,FO,,22:25
+269,392,Joseph Maguire,M35,,22:26
+270,202,Sharon McGrane,F50,,22:27
+271,698,Kevin Laide,MO,Civil service harriers,22:27
+272,885,Ingrid McGovern,F45,Brothers Pearse AC,22:27
+273,471,Eoin McCormack,MO,,22:28
+274,944,Anna Gray,F35,,22:28
+275,433,Aidan Corr,MO,,22:30
+276,921,Kevin Glackin,M40,,22:30
+277,935,Michael Cornyn,M50,Dunboyne,22:30
+278,163,carmel mac domhnaill,F60,west limerick,22:31
+279,294,Seamus Kelly,MO,,22:33
+280,432,Brian Corr,M45,,22:37
+281,655,Albert Eakins,M60,,22:39
+282,325,Stephen Coyle,MO,,22:40
+283,1009,Donal Sheridan,M50,Brothers Pearse AC,22:44
+284,1051,Liam Farrell,M40,Drogheda and District AC,22:44
+285,638,Keith Moynes,M35,Raheny shamrock,22:46
+286,827,Karl Carlton,M40,Drogheda and District AC,22:48
+287,209,barbara stacey,F40,runfit,22:49
+288,1028,Kevin Carroll,MO,,22:51
+289,521,William Cooper,M60,Liffey Valley AC,22:52
+290,953,Mel Hilliard,M45,MSB,22:52
+291,169,Thomas Moloney,M55,,22:53
+292,697,nicholas mccabe,M60,mullingar harriers,22:54
+293,919,Lorraine Lynch,FO,Civil service harriers,22:55
+294,902,jim Cummins,F55,,22:57
+295,290,martin casserly,MO,,23:00
+296,362,John Barton,M40,,23:02
+297,366,mark mulqueen,M40,,23:03
+298,96,Diarmaid O'Sullivan,M40,,23:04
+299,210,nicola gear,F35,runfit,23:06
+300,1043,Tony Keegan,M60,Civil Service Harriers,23:11
+301,356,Alan Coyne,MO,,23:12
+302,377,Mary Coghlan,F40,Raheny shamrock,23:12
+303,884,Karen McManus,FO,Brothers Pearse AC,23:15
+304,16,Paul Smith,M40,Drogheda Triathlon Club,23:16
+305,716,Sean Ó Donaile,M45,3D Tri,23:17
+306,512,Roisin Donnelly,F40,Dunleer A.C.,23:18
+307,856,Patrick O' Grady,M50,Drogheda and District AC,23:18
+308,317,valerie power,F45,Sportsworld A.C.,23:19
+309,599,paul pugh,M55,Civil service harriers,23:19
+310,841,Mary McDonnell,F55,Drogheda and District AC,23:20
+311,986,Brian O'Brien,M35,,23:22
+312,452,Pat Cheshire,M45,Dunleer A.C.,23:26
+313,801,David Birch,M45,Drogheda and District AC,23:27
+314,916,Marc Currid,M35,,23:27
+315,141,Keith Daly,M40,,23:28
+316,370,Julie Rayner,F35,,23:30
+317,226,Lillian Whooley,FO,Lucan Harriers,23:31
+318,616,Kevin Collier,M55,Civil service harriers,23:31
+319,787,Andrea McCabe,F45,Drogheda and District AC,23:31
+320,813,Helga Mc Donnell,F45,Drogheda and District AC,23:35
+321,961,Rhona Mcgrath,FO,Crusaders,23:35
+322,994,Simon Wielens,MO,,23:36
+323,596,Deirdre McCooey,F45,,23:38
+324,637,Denise Kelleher,F35,Raheny shamrock,23:38
+325,602,Mary Lynch,M45,,23:39
+326,963,Kevin McEvoy,MO,,23:40
+327,1059,Tom McEvoy,MO,,23:43
+328,150,Éilis Quinn,FO,MSB,23:47
+329,728,Ian Nicholson,M45,Esker Running Group,23:48
+330,130,Winnie Ryan,F45,3D Tri,23:52
+331,139,Curtis Gertsch,MO,,23:52
+332,279,Marta Kadlubowska,MO,Santa's Speedsters,23:52
+333,146,Helen Cheshire,F45,Dunleer A.C.,23:53
+334,495,Fidelma Rossiter,F35,Esker Running Group,23:55
+335,167,Seaghna Campbell,FO,Dunleer A.C.,23:56
+336,34,Aoife Diamond,F40,MSB,23:59
+337,627,aodh o connor,M45,Sportsworld A.C.,23:59
+338,823,Joe Mc Guirk,F45,Drogheda and District AC,24:05
+339,845,Michelle Egan,M35,Drogheda and District AC,24:05
+340,595,marie reilly,F60,navan ac,24:07
+341,724,Sandra Maguire,F45,,24:08
+342,246,John Holmes,M40,Dunleer A.C.,24:13
+343,629,Siobhan Doyle,FO,Lucan Harriers,24:15
+344,361,Leigh Harborne,MO,,24:18
+345,117,Alicja Karaczun,M35,,24:19
+346,1060,Joe McEvoy,MO,,24:19
+347,295,Patricia Forde,F45,Blackrock AC,24:21
+348,564,Aidan Maher,MO,,24:24
+349,426,Sorcha Collins,F35,,24:27
+350,1025,Mark O'Reilly,MO,,24:28
+351,826,Joy Tegart,F40,Drogheda and District AC,24:32
+352,610,Niall Coleman,M50,,24:34
+353,401,Paul O Neill,M60,,24:35
+354,461,Rosemary Long,F50,North East Runners,24:38
+355,207,Stephen Downey,M35,Civil service harriers,24:39
+356,302,Claire Jones,FO,Claire Jones,24:39
+357,941,ian oleary,M50,Team Accessories,24:39
+358,441,Caroline Fallon,F50,Civil service harriers,24:41
+359,300,Seamus Corbett,M40,,24:42
+360,696,brigid mccabe,F60,mullingar harriers,24:42
+361,817,Jane Glynn,F35,Drogheda and District AC,24:43
+362,206,Caroline Brennan,F35,MSB,24:44
+363,854,Pamela Seery Rice,F40,Drogheda and District AC,24:47
+364,966,Meggan O'Grady,F40,,24:48
+365,830,Linda Cruise,F45,Drogheda and District AC,24:49
+366,1010,Noel Duffy,M60,Dunboyne,24:49
+367,566,Des Shiels,MO,,24:51
+368,891,Jim Higgins,M50,Brothers Pearse AC,24:51
+369,191,Fergus O Regan,M50,,24:56
+370,193,Kevin Whelan,M50,Waterstown Warriors,24:56
+371,718,Robert Francis,M55,Waterstown Warriors,24:58
+372,306,Mary Fitzsimons,F40,Crusaders,24:59
+373,304,Aisha McKenna,F35,,25:00
+374,539,Annemarie Sheehan,F45,Dunboyne,25:00
+375,408,Aine McGuinness,FO,MSB,25:03
+376,26,Richard Murphy,M50,,25:05
+377,145,John McCabe,MO,,25:10
+378,440,Karen Mc loughlin,F55,,25:11
+379,1019,Cathy Cawley,FO,,25:12
+380,247,Liam Healy,M40,Dunleer Fit4Life,25:17
+381,570,Nichola Doran,F45,Esker Running Group,25:20
+382,168,Margaret Moloney,F55,Civil service harriers,25:22
+383,186,Sabrina Halliwell,F35,,25:23
+384,420,Gail O mahony,FO,,25:24
+385,522,Colette Reid,F40,,25:24
+386,243,John Lyons,MO,,25:25
+387,1042,Louise Brady,FO,Drogheda and District AC,25:25
+388,48,Marie O'Neill,F40,O'Neill Family,25:26
+389,462,Kathleen Phelan,F45,Esker Running Group,25:26
+390,888,Peter Cannon,M40,Brothers Pearse AC,25:28
+391,867,Sandra Maher,F40,Drogheda and District AC,25:32
+392,54,Carol Gleeson,F35,,25:35
+393,583,Alison Moorhouse,FO,,25:36
+394,816,Jacqueline Gill,F50,Drogheda and District AC,25:37
+395,978,Lorraine Furey,FO,,25:39
+396,727,Karen Nicholson,F45,Esker Running Group,25:44
+397,597,Peter Mc Manus,M40,Drogheda and District AC,25:46
+398,540,Toma Pasalica,M45,,25:47
+399,528,Brian Foley,MO,,25:50
+400,406,Aoife McCarthy,F40,,25:54
+401,843,Mary Toner,F55,Drogheda and District AC,25:55
+402,508,James Browne,MO,,25:57
+403,502,Lyndon Thomas,M55,Dunboyne,25:59
+404,912,Evelyn McNelis,F65,,26:02
+405,598,Tom Turner,M70,Civil service harriers,26:04
+406,702,Rachel Mallon,FO,,26:05
+407,760,Helen Dillon,F35,Drogheda & District AC Couch to 5k,26:05
+408,1045,Sinead McGuinness,F35,Drogheda and District AC,26:06
+409,473,Joe Geraghty,M55,,26:07
+410,456,Michael Cormican,M45,,26:12
+411,505,THOMAS FARRELLY,M40,,26:12
+412,849,Niamh Mathews,F40,Drogheda and District AC,26:12
+413,686,Emmet Travers,MO,,26:13
+414,358,Debbie Kavanagh,FO,,26:28
+415,1018,Tom Noctor,M50,,26:29
+416,811,Gillian Doheny,FO,Drogheda and District AC,26:30
+417,455,Lucy Dunne,F45,Portlaoise Ac,26:31
+418,252,Eoin Greene,MO,,26:34
+419,802,David Bradley,M55,Drogheda and District AC,26:36
+420,550,Jennifer Langan,F35,,26:37
+421,725,ELVA MAREE,F35,TEAM Accessories,26:40
+422,236,Fiachra Brennan,MO,,26:41
+423,573,Tom Power,M40,,26:42
+424,15,Edel Smith,F35,Drogheda and District AC,26:45
+425,710,Aisling O Mairtain,FO,,26:45
+426,338,Tony Power,M45,,26:47
+427,927,Bernie Curtin,F50,,26:47
+428,234,James Brennan,M55,Waterstown Warriors,26:48
+429,24,Zoe Richardson,FO,,26:50
+430,743,Matt Cooley,M65,Pot Watch,26:50
+431,148,Philip Scully,MO,,26:56
+432,354,Marcos Schettini,MO,,27:00
+433,190,Brian Conroy,M50,,27:04
+434,417,Lisa Shine,FO,Crusaders,27:08
+435,804,Edel Victory,F50,Drogheda and District AC,27:08
+436,224,Darren O' Reilly,M40,,27:09
+437,451,Paul McEvoy,M60,Civil service harriers,27:11
+438,892,Emer Meagher,F40,Brothers Pearse AC,27:11
+439,157,Aoiveen Mathews,F35,DDAC,27:12
+440,636,Judy Vahey,F45,,27:12
+441,726,Carina Becker,FO,,27:15
+442,232,liam kavanagh,M45,,27:17
+443,23,susan hughes,F35,Drogheda and District AC,27:20
+444,970,anna duras,FO,,27:21
+445,842,Mary McGreehan,F40,Drogheda and District AC,27:22
+446,38,angela charlton,F45,,27:23
+447,915,Fran McNulty,FO,,27:24
+448,353,Louise O'Dwyer,F35,Civil service harriers,27:25
+449,39,jennifer lee,F50,Blackrock AC,27:26
+450,661,karen toland,F40,,27:29
+451,443,Miriam Staunton,F40,,27:30
+452,122,leonie barry,FO,Donore Harriers,27:31
+453,487,raymond duggan,M65,Dunboyne,27:36
+454,807,Elaine Lawless,F40,Drogheda and District AC,27:36
+455,717,patricia barlow,F55,Esker Running Group,27:38
+456,405,Martin Moore,M55,,27:39
+457,1005,Kay Gilmartyin,F55,Dunboyne Fit4life,27:42
+458,343,Shay Reilly,M40,,27:43
+459,896,Frank Cruise,M50,Drogheda and District AC,27:44
+460,161,Fiona Hegarty,F40,Lucan Harriers,27:45
+461,711,Gary Murphy,MO,,27:45
+462,712,Justin Cassidy,MO,,27:46
+463,709,Celine Phelan,F45,Portmarnock AFC,27:48
+464,894,Denise Cross,FO,Brothers Pearse AC,27:48
+465,971,Niamh McMenamin,FO,,27:48
+466,324,Doreen Fagan,F45,,27:49
+467,204,Patrick Delahunty,M50,,27:51
+468,483,Derek Conway,M40,,27:51
+469,276,Michael Crean,M50,,27:52
+470,182,Larina Kenny,FO,MSB,27:53
+471,256,Suzie Hayes,FO,,27:53
+472,288,Marijke Beltman,F35,,27:54
+473,458,niamh mchugh,FO,Dunleer Fit4Life,27:55
+474,861,Pauline Ashwood,F40,Drogheda and District AC,27:57
+475,296,Jessica Johnson,FO,,27:58
+476,359,Louise Walsh,F45,,27:58
+477,959,Sarah Wong,FO,MSB,27:58
+478,756,Christine Mulroy Cumiskey,F35,Drogheda & District AC Couch to 5k,28:02
+479,535,Patricia Medcalf,F45,,28:03
+480,719,Siobhan Maunsell,FO,,28:07
+481,144,Brian Wolverson,M45,,28:08
+482,174,Bernadette White,F50,Dublin Striders A C,28:09
+483,810,Ged Kenny,M40,Drogheda and District AC,28:09
+484,812,Gillian O' Brien,F35,Drogheda and District AC,28:09
+485,484,Deirdre Sheehan,F35,,28:11
+486,1021,Paul Gormley,M40,,28:11
+487,788,Ann Leonard,F40,Drogheda and District AC,28:16
+488,541,Ronan Shaughnessy,MO,,28:18
+489,561,Celine Reilly,F55,,28:19
+490,840,Mary Lynne,F60,Drogheda and District AC,28:22
+491,138,Rebekah Komar,FO,,28:25
+492,498,Andre Costa Pozza,MO,,28:27
+493,497,Jackie Moore,FO,,28:28
+494,793,Brona Grogan,F35,Drogheda and District AC,28:29
+495,755,Cathriena Mc Donnell,F45,Drogheda & District AC Couch to 5k,28:30
+496,759,Ged Moroney,M40,Drogheda & District AC Couch to 5k,28:30
+497,799,Colin Cuffe,M40,Drogheda and District AC,28:31
+498,778,Ruth Gray,FO,Drogheda & District AC Couch to 5k,28:32
+499,387,Joeleine Donnelly,F35,Forget the gym,28:36
+500,848,Niall Seery,M35,Drogheda and District AC,28:36
+501,19,Barbara Byrne,F45,Drogheda and District AC,28:43
+502,37,Derek Brien,M55,,28:46
+503,242,Bernadette Lavin,F45,,28:46
+504,262,Laura McEneaney,FO,,28:46
+505,263,Oran Crean,M35,,28:47
+506,410,jake flanagan,M40,,28:47
+507,588,Suzanne Collins,M40,Crusaders,28:47
+508,835,Margaret McCauley,F60,Drogheda and District AC,28:47
+509,1066,Barbara O'Donnell,F35,Drogheda and District,28:47
+510,274,Lisa Lord,F45,Dunboyne,28:48
+511,281,Rosemary Hayes,F60,Team Hayes,28:51
+512,399,Marcus Cosgrove,M40,,28:54
+513,448,Eimear Fitzgerald,F35,,28:54
+514,162,Karen Foster,F45,,28:55
+515,942,Valerie Bradshaw,F45,,28:56
+516,331,Angela Egan,F60,Dunboyne Fit4life,28:57
+517,355,Nuala Arrigan,M45,Portlaoise Ac,28:57
+518,301,Carol Corbett,F40,,29:01
+519,905,fran finnegan,M55,3d Tri,29:06
+520,280,Dominika Markova,MO,Santa's Speedsters,29:10
+521,407,Sara McGuinness,F40,,29:10
+522,558,Jean Glennon,F45,,29:10
+523,59,Paul Maguire,M40,,29:11
+524,1007,Joseph McDonnell,M45,Dublin Bus,29:11
+525,855,Paola Flynn,F35,Drogheda and District AC,29:12
+526,83,Sinead Barrett,FO,,29:13
+527,32,Orla Obrien,F45,OBriens,29:14
+528,81,Siobhan Duffy,F35,,29:17
+529,84,Jonathan Toland,MO,,29:17
+530,229,Des O'Connor,M40,Dublin Striders A C,29:18
+531,609,Alison Brown,F35,,29:21
+532,870,Sharon Finn,F40,Drogheda and District AC,29:23
+533,722,Jennifer Brophy,M35,Invincibles,29:24
+534,1067,Hugh McHugh,MO,,29:24
+535,565,Claire Higgins,F40,,29:25
+536,82,Sinead Birch,M35,,29:27
+537,955,Alannah Hilliard,FO,,29:32
+538,1058,Daniel Dowling,MO,,29:33
+539,886,Alison McDonald (Brophy),F45,Brothers Pearse AC,29:37
+540,721,Michael Brophy,M65,Invincibles,29:38
+541,35,Deirdre Brennan,F40,,29:39
+542,490,Martin Noonan,M45,,29:39
+543,472,Roisin Bell,F40,Dunboyne,29:40
+544,482,Rosie Gallagher,F45,,29:41
+545,283,Laura Reilly,FO,,29:44
+546,1081,Elena Gaina FJ  Donore  Harriers  Ac,29:45
+547,42,David Gomm,M45,,29:47
+548,380,Rosanna Crean,F65,Get Fit Solutions,29:48
+549,435,Aoife Murphy,F35,,29:48
+550,436,Pauline Murphy,M65,,29:48
+551,819,Jennifer Barrett,FO,Drogheda and District AC,29:49
+552,828,Kathleen Kearns,F40,Drogheda and District AC,29:49
+553,917,Darina Currid,F35,,29:50
+554,31,Deirdre O'Dwyer,F45,,29:54
+555,945,Michelle Furlong,FO,,29:54
+556,447,Adrienne Seery,F40,,29:55
+557,782,Sean McDonnell,M35,Drogheda & District AC Couch to 5k,29:55
+558,341,Noel Kelly,M55,,29:56
+559,1017,Fintan Kelly,M55,Drogheda Triathlon Club,29:56
+560,938,Anne Coghlan,F35,,29:59
+561,414,Diarmuid Bradley,M60,,30:00
+562,735,Jacqui Tripp,F45,,30:05
+563,237,Kelly Bourke,F40,,30:08
+564,165,Sabrina Barrett,F35,,30:09
+565,111,Garry Newsome,M35,,30:13
+566,318,Christina Pollard,F35,,30:14
+567,552,Caitriona Maher,MO,,30:14
+568,313,Aisling mullen,FO,,30:15
+569,312,Catherine MULLEN,F50,,30:16
+570,672,Janice Murtagh,F35,,30:18
+571,707,Kerry McHugh,F40,Drogheda and District AC,30:18
+572,708,Yvonne McMahon,F40,Drogheda and District AC,30:18
+573,872,Siobhan Shortt,F45,Drogheda and District AC,30:19
+574,904,silke triesch,M50,Civil service harriers,30:24
+575,17,Elida Di Biasi,F35,,30:26
+576,379,Hilda Hegarty,F40,,30:27
+577,94,Kevin Comiskey,M65,,30:29
+578,533,Orla Cullen,F35,,30:29
+579,765,Karen Mulroy,FO,Drogheda & District AC Couch to 5k,30:31
+580,307,John Fitzsimons,M75,Crusaders,30:32
+581,723,Michael Knoghtly,M40,Invincibles,30:32
+582,260,Fiona Dalton,F50,Esker Running Group,30:34
+583,685,Sally Horton,FO,,30:36
+584,775,Pauline O' Sullivan,F35,Drogheda & District AC Couch to 5k,30:38
+585,820,Jennifer Behan,FO,Drogheda and District AC,30:39
+586,857,Paul Barrell,M40,Drogheda and District AC,30:40
+587,914,Sonia Harrington,F40,,30:42
+588,303,Lorraine Fitzsimons,F55,Crusaders,30:43
+589,457,ailish harty,FO,Dunleer Fit4Life,30:44
+590,587,Mary O'Dwyer,F35,,30:46
+591,783,Sheena Duffy,F35,Drogheda & District AC Couch to 5k,30:46
+592,391,Emma Creighton,FO,,30:47
+593,684,Margaret Bergin,F50,,30:48
+594,176,Donal Griffin,MO,Runners Support Page,30:49
+595,177,Brenda Keogh,F35,,30:49
+596,166,Joanna Campbell,F45,Dunleer A.C.,30:50
+597,460,Dara Macnamara,M40,,30:51
+598,520,Lisa Crocock,FO,Drogheda and District AC,30:51
+599,68,kieran corcoran,M35,,30:52
+600,65,aimee corcoran,M40,,30:53
+601,66,ziad chammas,M45,,30:53
+602,1000,Grainne Clarges,FO,,30:53
+603,67,anita corcoran,F60,,30:54
+604,25,Louise O Farrell,F45,,30:56
+605,385,Glenn Mcloughlin,MO,,30:57
+606,386,Laura Heagney,FO,,30:57
+607,569,Richard Moore,M35,Cilles AC,31:00
+608,44,Maik Erler,M35,,31:02
+609,200,Dave Coleman,M55,,31:02
+610,112,Lee Newsome,MO,,31:03
+611,45,Rakel Arroyo,F35,,31:04
+612,654,Sinead Eakins,FO,,31:04
+613,238,Orla Davis,FO,,31:05
+614,649,Geraldine Doyle,F40,Cilles AC,31:10
+615,741,Ralph Cant,M60,Cilles AC,31:10
+616,251,Julie McNamara,F35,,31:11
+617,605,elizabeth rossiter,F55,,31:12
+618,652,Darren Kinsella,MO,,31:16
+619,954,Josephine Hilliard,F50,,31:24
+620,682,Beverley Campion,FO,,31:27
+621,789,Aoife Mundow,FO,Drogheda and District AC,31:29
+622,49,John O'Neill,M40,MSB,31:30
+623,282,Suzanne Kenny,F35,,31:32
+624,152,Karen Nolan,F35,Pulse Tri Club,31:33
+625,907,Jack Kennedy,MO,DSD,31:33
+626,553,Nickie Rowley,F45,Forget The Gym,31:37
+627,507,Sinead Dunne,F40,,31:38
+628,506,Valerie McAllorum-Byrne,F45,,31:42
+629,315,Fiona Bane,FO,Crusaders,31:43
+630,231,Maree Dowling,F55,Rush Running,32:00
+631,890,Caroline Scanlon,FO,Brothers Pearse AC,32:01
+632,13,Natalie O Farrell,F40,,32:10
+633,821,Jennifer Holmes,FO,Drogheda and District AC,32:11
+634,513,Ciara Keenan,F40,Dunboyne,32:12
+635,869,Sarah O' Connor,F35,Drogheda and District AC,32:12
+636,529,Seodhna Foley,FO,,32:21
+637,833,Lorraine Brannigan,F35,Drogheda and District AC,32:24
+638,615,Brian O'Halloran,M35,,32:25
+639,639,Fiona Birmingham,FO,,32:25
+640,836,Margo Duffy,F60,Drogheda and District AC,32:25
+641,75,Mary Reilly,F50,Drogheda and District AC,32:27
+642,1002,Patricia Gallagher,F50,Dunboyne Fit4life,32:30
+643,852,Olwyn Brannigan,F45,Drogheda and District AC,32:51
+644,1029,Eileen McEvoy,FO,,32:56
+645,41,Frances mary  lynch,M40,lynch,32:57
+646,73,Anthony Wilson,M45,Cilles AC,32:57
+647,486,Jillian Jones,F40,,33:01
+648,806,Elaine Cooney,FO,Drogheda and District AC,33:02
+649,544,Colin McAnaspie,MO,,33:11
+650,546,Arthur McAnaspie,M60,,33:11
+651,449,richard addison,M45,SFP,33:21
+652,818,Janet MacDonnchadha,F40,Drogheda and District AC,33:25
+653,47,anita reilly,F35,Drogheda and District AC,33:28
+654,889,Barbara Hopkins,F50,Brothers Pearse AC,33:31
+655,545,Robert McAnaspie,MO,,33:35
+656,976,nadine hennessy,FO,,33:35
+657,691,Kevin Barrett,M40,,33:36
+658,71,Maeve Coleman,F35,,33:38
+659,196,James Reilly,M50,,33:43
+660,996,Annemarie Conneely,F40,,33:44
+661,503,Valerie O'Brien,F50,,33:48
+662,347,Lorna Burke,F40,,33:50
+663,560,Mary Preston,F40,Esker Running Group,33:54
+664,630,David Vahey,MO,,33:55
+665,631,Una Barrett,FO,,33:55
+666,791,Audrey O'Brien,F50,Drogheda and District AC,33:56
+667,123,Audrey Bell,F45,,33:59
+668,124,Paul Hanna,M45,,33:59
+669,464,David Mulligan,M55,,34:00
+670,777,Rose Dalton,F50,Drogheda & District AC Couch to 5k,34:00
+671,76,Gráinne Ward,F50,Cilles AC,34:01
+672,106,Margaret McDonnell,F60,,34:06
+673,50,Carol Coburn,F35,,34:07
+674,107,Frank McDonnell,M60,,34:07
+675,752,Anne-marie Burke,F40,Drogheda & District AC Couch to 5k,34:09
+676,847,Natalie Doyle Bradley,F40,Drogheda and District AC,34:10
+677,419,Dermot O'Brien,M50,Civil service harriers,34:12
+678,261,karen caffrey,M35,,34:13
+679,135,claire downey,M40,Cilles AC,34:14
+680,769,Lorna Corduff,FO,Drogheda & District AC Couch to 5k,34:14
+681,1024,Gerard Murphy,M60,,34:15
+682,143,Susan Clarke,F35,,34:17
+683,767,Lorna Burke,FO,Drogheda & District AC Couch to 5k,34:18
+684,269,Ruth Flynn,F40,Cilles AC,34:21
+685,549,Dermot Kinane,M35,,34:22
+686,770,Lorraine Lally,F35,Drogheda & District AC Couch to 5k,34:22
+687,780,Sean Breen,M50,Drogheda & District AC Couch to 5k,34:22
+688,80,Deirdre Harmon,F50,Drogheda and District AC,34:23
+689,784,Siobhan Wall,F35,Drogheda & District AC Couch to 5k,34:24
+690,1054,Conor O'Malley,M45,,34:24
+691,201,Graham Hyland,M40,Cilles AC,34:26
+692,485,Helen Kirk,F55,,34:29
+693,333,Paula Harper,F45,,34:32
+694,384,Dominic Whelan,M40,,34:37
+695,413,King Ben,M45,,34:37
+696,1055,Denise Murphy,F40,,34:43
+697,298,Edward Morrison,M40,,34:47
+698,871,Sheila O'Reilly,F60,Drogheda and District AC,34:51
+699,219,Patricia Hoey,F35,,34:54
+700,319,Aoife Slater,FO,Forget the Gym,34:54
+701,188,Fiona White,F35,,34:59
+702,523,Lisa Hynes,F35,,35:03
+703,442,David Staunton,M40,,35:07
+704,216,Mary Laffan,F35,,35:09
+705,250,Jean Murphy,FO,,35:09
+706,172,Emma Dodrill,FO,,35:36
+707,235,Noreen Brennan,F50,Waterstown Warriors,35:42
+708,423,Caitriona Crowley,F50,Cilles AC,35:42
+709,803,Donna Carolan,F35,Drogheda and District AC,35:46
+710,734,Yvonne McDonnell,MO,Drogheda and District AC,35:47
+711,136,Eamonn Aspell,M50,,35:50
+712,750,Amanda Winters,F45,Drogheda & District AC Couch to 5k,35:51
+713,1063,Louise Finnegan,FO,,35:59
+714,868,Sandy Maher,F50,Drogheda and District AC,36:05
+715,1053,Carol O'Malley,F45,,36:06
+716,593,Louise Bowden,FO,,36:08
+717,918,Elaine Bradley,FO,,36:08
+718,504,Terry Blake,F70,,36:13
+719,967,Colm O'Grady,M40,,36:15
+720,1049,David O'Rourke,MO,Drogheda and District,36:17
+721,681,Nadine Campion,F35,,36:18
+722,875,Valerie Campbell,F50,Drogheda and District AC,36:21
+723,647,Tara Woods,FO,St. Anne's Primary School,36:24
+724,758,Fiona Fisher,FO,Drogheda & District AC Couch to 5k,36:25
+725,748,Alanna Clarke,FO,Drogheda & District AC Couch to 5k,36:26
+726,60,Rosa Figueroa,F40,,36:27
+727,1003,Maria Hughes,F35,Dunboyne Fit4life,36:32
+728,245,Brendan Stears,M60,,36:33
+729,72,Aoife Collins,F40,Cilles AC,36:38
+730,683,Vincent Campion,M55,,36:42
+731,790,Audrey Browne,F40,Drogheda and District AC,36:58
+732,749,Alicia Farrelly,FO,Drogheda & District AC Couch to 5k,37:01
+733,766,Lisa Farrelly,FO,Drogheda & District AC Couch to 5k,37:01
+734,29,Antoinette Steele,F45,,37:04
+735,30,Jane Curtis,FO,,37:04
+736,397,Marion Shiels,FO,,37:10
+737,396,Teegan Maguire,FO,,37:11
+738,977,Fidelma Cotter,F50,,37:19
+739,982,Nuala joyce,F45,,37:19
+740,103,Celine Hughes,F45,,37:23
+741,344,Shane Loughrey-Grant,M40,3D Tri,37:24
+742,345,Karl Murray,MO,,37:27
+743,1008,Gerry Fogarty,M65,,37:29
+744,887,Ann Seery,FO,Brothers Pearse AC,37:30
+745,874,Tracey Townley Mathews,F40,Drogheda and District AC,37:41
+746,795,Carol Mallon,F55,Drogheda and District AC,37:42
+747,646,Emma Murphy,FO,St. Anne's Primary School,37:56
+748,1064,Carrie Poettcker,F35,,38:06
+749,762,Jackie Kirwan,F40,Drogheda & District AC Couch to 5k,38:09
+750,409,cheryl flanagan,F40,,38:18
+751,411,helen flanagan,F55,,38:18
+752,393,KEVIN SHERLOCK,M65,KEVS TEAM,38:21
+753,131,Aoife Branagan,FO,,38:27
+754,132,Sean O'Dwyer,M50,Cilles AC,38:31
+755,270,Joy Farrell,F35,Cilles AC,38:31
+756,332,Una McGrane,F60,,38:33
+757,1004,Anne Hickey,F35,Dunboyne Fit4life,38:43
+758,742,kevin Reynolds,M45,,38:53
+759,771,Martina Hansberry,F50,Drogheda & District AC Couch to 5k,39:20
+760,194,Carol O'Dwyer,FO,,39:59
+761,340,Georgina Loughrey,F35,,40:10
+762,373,Claire ODonnell,F35,,40:10
+763,781,Sean Deegan,MO,Drogheda & District AC Couch to 5k,40:24
+764,831,Linda O' Connor,F35,Drogheda and District AC,40:26
+765,786,Tracey Kelly,FO,Drogheda & District AC Couch to 5k,40:29
+766,951,Joan Connaughton,M45,Galway City Harriers,40:37
+767,956,Orla Murphy,F45,Le Cheile,40:37
+768,779,Sandra McGuinness,F55,Drogheda & District AC Couch to 5k,40:42
+769,334,bernadette curran,F45,,40:47
+770,335,maria o reilly,M45,,40:47
+771,480,Joanne OReilly,F40,,41:08
+772,481,Catherine OReilly,M40,,41:08
+773,328,Edel Byrne,FO,,41:09
+774,491,Marie Tolan,F55,,41:13
+775,692,Leonard McKeown,M40,,41:37
+776,747,Adrienne Collins,F35,Drogheda & District AC Couch to 5k,42:38
+777,751,Anne Collins,F65,Drogheda & District AC Couch to 5k,42:38
+778,950,Sandeep Desai,M40,,42:54
+779,368,Paul Dunne,M50,,43:42
+780,746,Adele Reddin,F40,Drogheda & District AC Couch to 5k,44:08
+781,776,Rachel Flanagan,F40,Drogheda & District AC Couch to 5k,44:11
+782,866,Sally-Ann McLaughlin,F40,Drogheda and District AC,44:22
+783,248,Pamela Mc Loughlin,F35,kevs team :),45:23
+784,753,Belina Seery,FO,Drogheda & District AC Couch to 5k,45:51
+785,763,Jennifer Curran,FO,Drogheda & District AC Couch to 5k,45:57
+786,761,Irene Maher,F45,Drogheda & District AC Couch to 5k,46:02
+787,757,Emma Quigley,F35,Drogheda & District AC Couch to 5k,46:05
+788,768,Lorna Callaghan,FO,Drogheda & District AC Couch to 5k,46:05
+789,805,Eimear Ni Dhubhlainn,FO,Drogheda and District AC,46:08
+790,772,Mary Cuffe,F40,Drogheda & District AC Couch to 5k,46:10
+791,643,Tara Quirke,F40,St. Anne's Primary School,46:14
+792,644,Donna Barry,F35,,46:14
+793,119,martina garrett,F40,Williams Garrett Gang,46:46
+794,120,Marie Williams,FO,Williams Garrett Gang,46:46
+795,671,Josie O'Rourke,F50,,47:30
+796,92,Karen McDonagh,M50,,48:09
+797,93,Gael Leitch,M50,,48:11
+798,230,Aisleen Ferry,FO,,49:03
