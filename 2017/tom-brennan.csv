@@ -1,0 +1,592 @@
+Place,No,Name,Cat,SubCat,Club,Time,Chip
+1,502,Daire BERMINGHAM,M (1),MS (1),Raheny Shamrock AC,00:15:23,00:15:24
+2,701,Peter ARTHUR,M (2),MS (2),Liffey Valley AC,00:15:35,00:15:35
+3,403,Neil O'ROURKE,M (3),MS (3),Civil Service Harriers,00:15:52,00:15:52
+4,352,Robert MURPHY,M (4),M35 (1),Rathfarnham WSAF,00:15:55,00:15:56
+5,166,DÓNal FOLEY,M (5),MS (4),Raheny Shamrock AC,00:16:01,00:16:01
+6,151,Brian FAY,M (6),MS (5),Raheny Shamrock AC,00:16:01,00:16:02
+7,569,Gareth MURRAN,M (6),M35 (2),Sportsworld Running Club,00:16:02,00:16:02
+8,349,Barry MURPHY,M (8),M35 (3),Celbridge AC,00:16:22,00:16:23
+9,500,Peter MOONEY,M (9),M35 (4),Inverse,00:16:26,00:16:28
+10,544,Rory KAVANAGH,M (10),MS (6),Dunboyne AC,00:16:29,00:16:29
+11,371,Wesley O'BRIEN,M (11),M35 (5),Raheny Shamrock AC,00:16:30,00:16:30
+12,703,Pierce GEOGHEGAN,M (12),MS (7),Liffey Valley AC,00:16:31,00:16:32
+13,511,Loughlin CAMPION,M (13),MS (8),Dunboyne AC,00:16:35,00:16:36
+14,389,Eoin O'DWYER,M (14),MS (9),Raheny Shamrock AC,00:16:43,00:16:44
+15,707,Sean DORAN,M (15),MS (10),Clonliffe Harriers,00:16:43,00:16:45
+16,554,Paul MARTIN,M (16),MS (11),Bros Pearse AC,00:16:45,00:16:47
+17,365,Philip NILAND,M (17),M35 (6),Celbridge AC,00:16:52,00:16:52
+18,716,Simon DEVENNY,M (18),MS (12),Raheny Shamrock AC,00:16:55,00:16:56
+20,699,Ciaran REILLY,M (19),M35 (7),Liffey Valley AC,00:16:56,00:16:57
+19,742,Paul COWHIE,M (19),M50 (1),Civil Service Harriers,00:16:56,00:16:57
+21,734,Fergal SWAINE,M (21),M40 (1),Donore Harriers,00:16:57,00:16:59
+22,722,James HAMM,M (22),M35 (8),Portlaoise,00:17:01,00:17:02
+23,743,Desmond TREMBLE,M (23),M45 (1),Donore Harriers,00:17:01,00:17:03
+24,713,Mark PEARCE,M (24),M35 (9),Bros Pearse AC,00:17:03,00:17:04
+25,504,Mick BARRY,M (25),M45 (2),Raheny Shamrock AC,00:17:05,00:17:07
+26,278,Jack MAHER,M (26),MS (13),Westport,00:17:08,00:17:09
+27,702,Gaeten LEPAIGE,M (27),MS (14),Liffey Valley AC,00:17:09,00:17:10
+28,552,Sean MAC,M (28),M40 (2),MSB,00:17:11,00:17:12
+29,556,Ian MCCONKEY,M (29),M35 (10),Raheny Shamrock AC,00:17:14,00:17:15
+30,68,Robert CLOUGHER,M (30),MS (15),Donore Harriers,00:17:20,00:17:20
+31,515,Barbara CLEARY,F (1),F40 (1),Donore Harriers,00:17:20,00:17:22
+32,705,David BROPHY,M (31),MS (16),Raheny Shamrock AC,00:17:24,00:17:24
+33,447,Pearse RYAN,M (32),M35 (11),,00:17:40,00:17:41
+34,754,Jonathan HUGHES,M (33),M35 (12),Rathfarnham WSAF,00:17:43,00:17:44
+35,179,Jody GILHOOLY,M (34),M35 (13),Raheny Shamrock AC,00:17:55,00:17:55
+36,95,David COYLE,M (35),MS (17),Sli Cualann,00:17:56,00:17:58
+37,257,Shane LARKIN,M (36),M40 (3),Drogheda & District AC,00:17:57,00:17:59
+38,72,Margaret COLEMAN,M (36), (1),,00:16:04,00:17:59
+40,171,Peter GAFFNEY,M (38),M45 (3),,00:17:59,00:18:01
+39,756,Tom TENNANT,M (38),MS (18),,00:18:00,00:18:01
+41,750,Jeremy CAPT,M (40),MS (19),AVG,00:18:19,00:18:20
+42,548,Michael KING,M (41),M40 (4),Raheny Shamrock AC,00:18:21,00:18:22
+43,735,Niamh BOLAND,F (2),F35 (1),Crusaders AC,00:18:25,00:18:26
+44,550,Declan LYNCH,M (42),M35 (14),Donore Harriers,00:18:29,00:18:31
+45,729,Brian KELLY,M (43),M50 (2),Raheny Shamrock AC,00:18:30,00:18:32
+46,545,Annette KEALY,F (3),F45 (1),Raheny Shamrock AC,00:18:33,00:18:34
+47,50,Stephen BUTLER,M (44),MS (20),Dublin Bay Running Club,00:18:37,00:18:39
+48,370,Eddie NUGENT,M (45),M40 (5),Crusaders AC,00:18:43,00:18:45
+49,57,Alejandro CARRASCO,M (46),MS (21),,00:18:50,00:18:54
+50,696,Eimear NICANBHAIRD,F (4),FS (1),Liffey Valley AC,00:18:55,00:18:56
+51,597,Mark WOODGER,M (47),M45 (4),MSB,00:18:55,00:18:58
+52,764,Liam TILLY,M (48),M45 (5),Le Cheile AC,00:19:02,00:19:03
+53,589,Louise STACK,F (5),FS (2),Portlaoise AC,00:19:03,00:19:03
+54,694,Sile CARROLL,F (6),FS (3),Liffey Valley AC,00:19:02,00:19:04
+55,221,Mindaugas IGARIS,M (49),M35 (15),Lithuanian Runners Club in Ireland,00:19:03,00:19:05
+56,695,Aileen GITTENS,F (7),FS (4),Liffey Valley AC,00:19:08,00:19:10
+57,466,John SMALL,M (50),M40 (6),Celbridge AC,00:19:15,00:19:18
+58,520,Pearse COYLE,M (51),M50 (3),Rathfarnham WSAF,00:19:28,00:19:29
+59,698,Lena SINCLAIR,F (8),F40 (2),Liffey Valley AC,00:19:39,00:19:39
+60,741,Darren BATES,M (52),MS (22),,00:19:47,00:19:48
+61,697,Annie GITTENS,F (9),FS (5),Liffey Valley AC,00:19:47,00:19:49
+62,507,Dermot BROSNAN,M (53),M40 (7),,00:19:46,00:19:50
+63,43,Ciaran BROWNE,M (54),M45 (6),,00:19:48,00:19:53
+65,59,Ciaran CASSIDY,M (55),M35 (16),,00:19:53,00:19:58
+66,538,Máire GRIFFITH,F (10),FS (6),Gowran AC,00:19:56,00:19:58
+64,452,Craig SCOTT,M (55),M35 (16),Donore Harriers,00:19:54,00:19:58
+67,280,Barry MALONE,M (57),M35 (18),Trim AC,00:19:56,00:19:59
+68,571,Patrick NEEDHAM,M (57),M35 (18),,00:19:58,00:19:59
+69,547,Sean KILDUNNE,M (59),M40 (8),MSB,00:19:57,00:20:00
+70,523,Stephen DAWSON,M (60),MS (23),Donore Harriers,00:19:47,00:20:04
+71,182,David  GOGARTY,M (61),M45 (7),,00:20:05,00:20:11
+72,361,Jp  NESTOR,M (61),M40 (9),,00:20:06,00:20:11
+74,445,Ciaran  RYAN,M (63),MS (24),Donore Harriers,00:20:12,00:20:15
+73,256,Ray  LANGTON,M (63),M50 (4),Run BMC,00:20:13,00:20:15
+75,740,Paul  MCDONNELL,M (65),M40 (10),Celbridge AC,00:20:13,00:20:16
+76,200,Dave  HENEGHAN,M (66),MS (25),,00:20:09,00:20:18
+77,457,David  SHANAHAN,M (67),MS (26),Victoria Park Harriers,00:20:19,00:20:22
+78,497,Stephen  WILLOUGHBY,M (68),M50 (5),Hissyfit Runners,00:20:19,00:20:23
+79,296,Maurice  MCCROHAN,M (69),M50 (6),Clonliffe Harriers,00:20:22,00:20:24
+80,413,Kerri  PAGE,F (11),F35 (2),Clonliffe Harriers,00:20:26,00:20:27
+81,555,Dermot  MCCARTHY,M (70),M40 (11),Dublin Frontrunners,00:20:29,00:20:32
+82,49,Joseph  BURKE,M (71),M50 (7),,00:20:30,00:20:34
+83,479,Dave  TILLY,M (72),M50 (8),Liffey Valley AC,00:20:36,00:20:38
+84,563,Edel  MCNAMARA,F (12),F40 (3),Dublin City Harriers,00:20:37,00:20:39
+85,353,Declan  MURRAY,M (73),M50 (9),Clonliffe Harriers,00:20:48,00:20:52
+86,576,David  O'SULLIVAN,M (73),M35 (20),,00:20:42,00:20:52
+87,719,Tony  GRIFFIN,M (75),M50 (10),Donore Harriers,00:20:51,00:20:54
+88,195,Joe  HAUGH,M (76),M40 (12),Bros Pearse AC,00:20:52,00:20:55
+89,751,Alma  CAPT,F (13),F45 (2),AVG,00:20:57,00:20:57
+90,744,Barry  POTTS,M (77),M50 (11),Donore Harriers,00:21:01,00:21:02
+92,573,Deirdre  NI,F (14),F35 (3),Crusaders AC,00:21:01,00:21:02
+91,343,Jason  O'MUIRI,M (77),M40 (13),MSB,00:20:59,00:21:02
+93,562,Jonathan  MCGUINNESS,M (79),M40 (14),,00:20:50,00:21:05
+94,390,Fergal  O'DWYER,M (80),M50 (12),,00:20:59,00:21:07
+95,732,Michael  LOGUE,M (81),M45 (8),,00:21:04,00:21:09
+96,582,Andrew  ROGERS,M (82),M50 (13),St Peters,00:21:12,00:21:14
+97,241,Willie  KENNEDY,M (83),M40 (15),,00:21:21,00:21:23
+98,558,Mark  MCDONALD,M (84),M40 (16),Dunboyne AC,00:21:18,00:21:24
+99,94,Michael  COUNSEL,M (85),M50 (14),Lord Mayors 5 Alive Challenege,00:21:27,00:21:29
+100,139,Daniel  ENGLISH,M (86),M35 (21),,00:21:26,00:21:30
+101,724,Leonard  BUTTERLY,M (87),M50 (15),Annagassen Zero to 10k,00:21:31,00:21:33
+102,381,Padraig  O'CONNOR,M (88),M40 (17),Balbriggan Roadrunners,00:21:30,00:21:35
+103,439,Pauline  ROBERTSON,F (15),F45 (3),DSD AC,00:21:26,00:21:38
+104,487,Ronan  WALSH,M (89),M45 (9),,00:21:35,00:21:40
+105,192,Brian  HANNEY,M (90),M50 (16),Lord Mayors 5 Alive Challenege,00:21:39,00:21:44
+106,709,Graham  MANTLE,M (91),M35 (22),,00:21:43,00:21:45
+107,217,Leslie  Lluyd,M (92),MS (27),Lord Mayors 5 Alive Challenege,00:21:45,00:21:51
+108,290,Des  MCCARTHY,M (92),M50 (17),Run BMC,00:21:38,00:21:51
+109,112,Carol  DEMPSEY,F (16),F50 (1),,00:21:50,00:21:52
+110,590,Phil  STEVENSON,M (94),MS (28),Ivanhoe Runners,00:21:49,00:21:53
+111,591,Ingrid  STEVENSON,F (17),F35 (4),Ivanhoe Runners,00:21:50,00:21:53
+112,752,Oliver  CAPT,M (95),M45 (10),AVG,00:21:52,00:21:54
+113,145,Keith  FARRELL,M (96),M35 (23),Civil Service Harriers,00:21:28,00:21:55
+114,579,Brian  PEPPARD,M (97),M45 (11),Monaghan Phoenix AC,00:22:03,00:22:06
+116,138,Michael  ENGLISH,M (98),M45 (12),mypersonaltrainer.ie,00:22:04,00:22:07
+115,146,Bren  FARRELL,M (98),M40 (18),Civil Service Harriers,00:21:34,00:22:07
+117,216,Lisa  HUGHES,F (18),F45 (4),Balbriggan & District AC,00:22:07,00:22:08
+118,281,Michele  MARKHAM,F (19),F35 (5),Lord Mayors 5 Alive Challenege,00:22:03,00:22:10
+119,592,Niall  SUGRUE,M (100),M45 (13),,00:22:09,00:22:14
+120,723,Sharon  MOORE,F (20),F40 (4),,00:22:14,00:22:17
+121,730,Late  entry, (1), (2),,00:22:13,00:22:18
+122,596,Rob  WILSON,M (101),M45 (14),Barcelona,00:21:13,00:22:19
+123,156,Edward  FITZPATRICK,M (102),MS (29),,00:22:13,00:22:20
+124,392,Paul  O'GORMAN,M (103),M45 (15),Lord Mayors 5 Alive Challenege,00:22:09,00:22:21
+125,494,Colin  WHITE,M (104),M45 (16),Transplant Team Ireland,00:22:18,00:22:26
+126,476,Paul  TESTER,M (105),M50 (18),Bros Pearse AC,00:22:27,00:22:29
+129,58,Jennifer  CARTER,F (21),FS (7),Ballyroan Abbeyleix & District,00:22:26,00:22:30
+128,462,Padraig  SHERRY,M (106),MS (30),,00:21:34,00:22:30
+127,242,Linda  KENRICK,F (21),F35 (6),,00:22:21,00:22:30
+130,87,Shannon  CORBALLY,F (23),FS (8),,00:22:28,00:22:31
+131,706,Eammon  LYNCH,M (107),M50 (19),,00:22:27,00:22:34
+132,340,Ross  MORGAN,M (108),M40 (19),,00:22:10,00:22:35
+133,459,Kevin  SHEEHY,M (109),M50 (20),,00:22:33,00:22:37
+134,131,Olwyn  DUNNE,F (24),F50 (2),Crusaders AC,00:22:35,00:22:46
+135,203,Fiona  HENNIGAN,F (25),FS (9),,00:22:37,00:22:48
+136,106,Olivia  DALY,F (26),F40 (5),Dunshaughlin AC,00:22:51,00:22:55
+137,600,Anne  YOUNG,F (27),F45 (5),Rathkenny AC,00:22:44,00:22:56
+138,564,Tos  MORAN,M (110),M50 (21),Bros Pearse AC,00:22:50,00:22:58
+139,32,Derek  BRANNIGAN,M (111),M45 (17),,00:22:52,00:23:00
+140,482,Eva  TOMONYICZKA,F (28),F40 (6),Lord Mayors 5 Alive Challenege,00:23:00,00:23:05
+141,714,Ultan  MURPHY,M (112),M35 (24),MSB,00:22:43,00:23:08
+142,761,Kate  MURRAY,F (29),FS (10),,00:22:46,00:23:09
+143,739,Chris  MAUGHAN,M (113),M45 (18),Celbridge AC,00:23:02,00:23:10
+144,491,Ramon  WHELAN,M (114),M45 (19),Lord Mayors 5 Alive Challenege,00:22:48,00:23:11
+145,549,Patrick  LEECH,M (115),M45 (20),,00:23:13,00:23:13
+146,490,Carmel  WARD,F (30),F35 (7),Lord Mayors 5 Alive Challenege,00:23:07,00:23:14
+147,260,Neal  LEDDY,M (116),M40 (20),Marathon Club Ireland,00:21:28,00:23:18
+148,536,Sandra  GOWRAN,F (31),F45 (6),Sportsworld Running Club,00:23:13,00:23:18
+150,429,Mary  PURDUE-SMYTH,F (32),F50 (3),Raheny Shamrock AC,00:23:16,00:23:21
+149,264,Michael  LESTER,M (117),M45 (21),5 Alive / Waterstown Warriors,00:22:51,00:23:21
+152,207,Eileen  HOARE,F (33),FS (11),Celbridge AC,00:23:14,00:23:22
+151,348,John  MULVANEY,M (118),M45 (22),Waterstown Warriors,00:22:53,00:23:22
+153,169,Declan  FRENCH,M (119),MS (31),Lord Mayors 5 Alive Challenege,00:23:19,00:23:24
+154,336,Nicola  MOONEY,F (34),F35 (8),Raheny Shamrock AC,00:23:21,00:23:27
+155,114,Billy  DIGGIN,M (120),M45 (23),Wicklow,00:23:25,00:23:29
+156,443,Eileen  ROWLAND,F (35),F50 (4),Sportsworld Running Club,00:23:22,00:23:31
+157,416,Michael  PEIRCE,M (121),M40 (21),Lord Mayors 5 Alive Challenege,00:23:23,00:23:32
+159,470,Edward  SMITH,M (122),M50 (22),,00:23:29,00:23:36
+158,749,Alexia  CAPT,F (36),FS (12),AVG,00:23:33,00:23:36
+160,12,Marijke  BELTMAN,F (37),F35 (9),Belpark Tri,00:23:24,00:23:37
+162,320,Frank  MCNALLY,M (123),M50 (23),Donore Harriers,00:23:15,00:23:37
+161,532,Joanne  GAFFNEY,F (37),F35 (9),,00:23:33,00:23:37
+163,546,Conor  KENNY,M (124),M50 (24),Sportsworld Running Club,00:23:32,00:23:38
+164,283,Gerard  MARTIN,M (125),M50 (25),Lucan Harriers AC,00:23:37,00:23:39
+165,178,Mark  GEOGHEGAN,M (126),M45 (24),,00:23:35,00:23:40
+166,230,Brian  KEENAN,M (127),M40 (22),Bellahouston Road Runners,00:23:43,00:23:47
+167,588,Cormac  SPOONER,M (128),MS (32),,00:23:32,00:23:48
+168,728,Charlie  O'NEILL,M (129),M50 (26),Donore Harriers,00:23:44,00:23:51
+169,124,Liam  DOYLE,M (130),M45 (25),Lord Mayors 5 Alive Challenege,00:23:44,00:23:52
+170,505,Sean  BRETT,M (131),M35 (25),,00:23:39,00:23:53
+171,273,Grainne  LYNCH,F (39),F35 (11),Sportsworld Running Club,00:23:48,00:23:55
+172,481,Martin  TOBIN,M (132),M50 (27),,00:23:52,00:23:59
+173,484,Lynda  TUOHY,F (40),F50 (5),Lord Mayors 5 Alive Challenege,00:23:49,00:24:00
+174,341,Karl  MORGAN,M (133),MS (33),,00:23:41,00:24:06
+174,715,BrIAN  DOHERTY,M (133),M35 (26),,00:24:00,00:24:06
+176,255,Amanda  LANGAN,F (41),F40 (7),Lord Mayors 5 Alive Challenege,00:24:01,00:24:07
+177,254,Eamonn  LANGAN,M (135),M50 (28),Lord Mayors 5 Alive Challenege,00:23:58,00:24:10
+177,129,John  DRUMM,M (135),M50 (28),Lord Mayors 5 Alive Challenege,00:24:05,00:24:10
+179,67,Philip  CLARKE,M (137),M35 (27),Lord Mayors 5 Alive Challenege,00:23:55,00:24:13
+180,259,Dominic  LAWRENCE,M (137),MS (34),,00:23:58,00:24:13
+181,267,Artur  LOS,M (139),M40 (23),,00:23:42,00:24:15
+182,516,Sorcha  COLLINS,F (42),F40 (8),,00:24:06,00:24:15
+183,399,Eoin  O'REILLY,M (140),M40 (24),Activ Multisport,00:24:04,00:24:16
+184,424,Michal  PODOLSKI-CZAJKA,M (141),M35 (28),Lord Mayors 5 Alive Challenege,00:24:18,00:24:22
+185,561,Joseph  MCGRATH,M (142),MS (35),,00:24:29,00:24:33
+186,333,Derek  MONAGHAN,M (143),M50 (30),,00:24:19,00:24:37
+187,325,Ruth  MELLETT,F (43),F45 (7),Bros Pearse AC,00:24:16,00:24:40
+188,134,Neil  EMERSON,M (144),M50 (31),Grantham Running Club,00:24:07,00:24:40
+189,533,Padraig  GIBBONS,M (145),M50 (32),,00:24:07,00:24:41
+190,196,Keith  HAZLEY,M (146),M50 (33),Run BMC,00:24:32,00:24:46
+191,250,Mark  KINSELLA,M (147),M40 (25),Lord Mayors 5 Alive Challenege,00:24:32,00:24:53
+192,25,Gerard  BRADLEY,M (148),MS (36),,00:24:45,00:24:55
+193,394,Vivian  O'GORMAN,M (149),M50 (34),,00:24:41,00:24:56
+195,551,Sinead  LYONS,F (44),F40 (9),Raheny Shamrock AC,00:24:52,00:24:58
+194,388,AudraÍ  O'DRISCOLL,F (44),F50 (6),Sportsworld Running Club,00:24:48,00:24:58
+196,517,Barry  COSGROVE,M (150),M40 (26),,00:24:46,00:24:59
+197,531,Brian  FINNERTY,M (151),M35 (29),,00:24:48,00:25:00
+198,215,Annette  HOWLETT,F (46),F45 (8),,00:24:55,00:25:02
+199,717,Sinead  TIGHE,F (47),F40 (10),Bros Pearse AC,00:24:22,00:25:04
+200,718,Daniel  TIGHE,M (152),MS (37),Bros Pearse AC,00:24:23,00:25:05
+201,4,Osama  ANSHASI,M (153),M45 (26),Lord Mayors 5 Alive Challenege,00:24:21,00:25:06
+202,123,Andrea  DOYLE,F (48),F40 (11),Civil Service Harriers,00:24:48,00:25:15
+204,535,Jacqueline  GILL,F (49),F50 (7),Drogheda & District AC,00:24:49,00:25:17
+203,444,David  ROXBURGH,M (154),M50 (35),,00:25:06,00:25:17
+205,400,Liz  O'REILLY,F (50),F35 (12),Balbriggan & District AC,00:25:13,00:25:18
+206,763,Harry  FREEMAN,M (155),M50 (36),,00:25:09,00:25:20
+207,537,Peter  GRAY,M (156),M35 (30),,00:24:51,00:25:25
+208,359,Keith  NAUGHTON,M (157),M40 (27),,00:24:46,00:25:27
+209,762,Olive  KEHOE,F (51),F45 (9),,00:24:54,00:25:27
+210,522,Michelle  DAWSON,F (52),FS (13),Donore Harriers,00:25:21,00:25:29
+211,198,Julie  HEFFERNAN,F (53),F40 (12),,00:25:26,00:25:30
+211,220,Caroline  HYNES,F (53),F35 (13),Lord Mayors 5 Alive Challenege,00:25:04,00:25:30
+213,581,Valerie  POWER,F (55),F45 (10),Sportsworld Running Club,00:25:26,00:25:31
+214,428,David  PURDOM,M (158),M50 (37),,00:25:10,00:25:32
+215,137,Laurence  ENDERSEN,M (159),M45 (27),,00:25:21,00:25:33
+216,119,Eleanor  DOODY,F (56),F40 (13),,00:24:58,00:25:34
+217,727,Barry  DRIVER,M (160),M35 (31),,00:25:45,00:25:53
+218,765,Noelle  DOODY,F (57),F35 (14),,00:25:22,00:25:59
+219,514,Andrew  CLARKE,M (161),M35 (32),,00:25:32,00:26:07
+220,51,Alita  BYRD,F (58),F40 (14),Lord Mayors 5 Alive Challenege,00:25:55,00:26:08
+221,748,Philppe  SANLAVILLE,M (162),M50 (38),,00:25:48,00:26:10
+222,373,Lisa  O'BRIEN,F (59),F40 (15),Lord Mayors 5 Alive Challenege,00:26:08,00:26:17
+223,44,Desmond  BUCKLEY,M (163),M50 (39),RSP,00:26:20,00:26:38
+224,135,Sarah  ENDERSEN,F (60),FS (14),DSD AC,00:26:28,00:26:39
+225,738,Gerard  FAY,M (164),M45 (28),Drogheda & District AC,00:26:27,00:26:40
+226,176,Sean  GARVEY-SHYNE,M (164),MS (38),,00:26:21,00:26:40
+227,80,Mary  CONNOLLY,F (61),F40 (16),Lord Mayors 5 Alive Challenege,00:26:32,00:26:42
+228,205,Jane  HIGGINS,F (62),F50 (8),Lord Mayors 5 Alive Challenege,00:26:37,00:26:44
+230,453,Gregory  SCOTT,M (166),M50 (40),,00:26:35,00:26:46
+229,91,Catherine  CORNALL,F (63),F50 (9),Run BMC,00:26:22,00:26:46
+231,469,Sue  SMITH,F (64),F45 (11),Skegness Coasters,00:26:14,00:26:47
+232,423,Magdalena  PODOLSKA,F (65),F35 (15),Polish Run Team,00:26:15,00:26:48
+233,377,Fiona  O'BYRNE,F (66),F45 (12),Lord Mayors 5 Alive Challenege,00:26:31,00:26:50
+235,412,Eamon  OSULLIVAN,M (167),M50 (41),Lord Mayors 5 Alive Challenege,00:26:46,00:26:54
+234,301,Paul  MCEVOY,M (167),M50 (41),Civil Service Harriers,00:26:26,00:26:54
+236,560,Joseph  MCGRATH,M (169),M50 (43),,00:26:54,00:26:56
+238,224,Andrew  KANE,M (170),MS (39),,00:26:18,00:26:58
+239,223,Suzanne  KANE,F (67),FS (15),,00:26:18,00:26:58
+237,24,Siobhan  BOYLE,F (67),F40 (17),,00:26:53,00:26:58
+240,104,Melanie  D'ARCY,F (69),F45 (13),Lord Mayors 5 Alive – S to J,00:26:58,00:27:03
+241,288,Debbie  MCCABE,F (70),F40 (18),Slogger 2 Joggers,00:26:44,00:27:05
+242,759,Wayne  DODRILL,M (171),M40 (28),St Plunketts AC,00:26:51,00:27:06
+244,6,Andrew  BAILEY,M (172),M50 (44),Run BMC,00:26:54,00:27:07
+243,568,James  MURPHY,M (172),M35 (33),Lord Mayors 5 Alive Challenege,00:26:52,00:27:07
+245,720,Tom  HALTON,M (174),M50 (45),Donore Harriers,00:27:04,00:27:09
+246,414,Jonathan  PARMINTER,M (175),MS (40),Lord Mayors 5 Alive Challenege,00:26:41,00:27:15
+247,302,Rory  MCGINLEY,M (176),M50 (46),Lord Mayors 5 Alive Challenege,00:27:09,00:27:17
+248,244,Aisling  KEYES,F (71),FS (16),Lord Mayors 5 Alive Challenege,00:26:57,00:27:18
+249,209,Jennifer  HOGAN,F (72),F35 (16),,00:27:10,00:27:20
+250,306,Christopher  MCGOVERN,M (177),MS (41),RSP,00:27:14,00:27:20
+251,70,Anne  COLEMAN,F (73),F40 (19),Activ Multisport,00:27:11,00:27:22
+252,411,Ann  OLWILL,F (74),F50 (10),Lord Mayors 5 Alive Challenege,00:26:51,00:27:24
+253,422,June  PLUNKETT,F (75),F40 (20),Lord Mayors 5 Alive Challenege,00:26:51,00:27:25
+253,458,Maura  SHAUGHNESSY,F (75),F40 (20),RSP,00:27:15,00:27:25
+255,493,Fiona  WHITE,F (77),F35 (17),Lord Mayors 5 Alive Challenege,00:27:07,00:27:27
+256,234,Keith  KELLY,M (178),MS (42),Lord Mayors 5 Alive Challenege,00:27:20,00:27:33
+257,311,Treasa  MCGRATH,F (78),F35 (18),,00:27:11,00:27:35
+258,84,Kerry  CONSTANT,M (179),M50 (47),Lord Mayors 5 Alive Challenege,00:27:32,00:27:37
+259,103,David  CUSACK,M (180),M50 (48),,00:27:08,00:27:46
+260,239,Paul  KENNEDY,M (180),M50 (48),Run BMC,00:27:24,00:27:46
+261,189,Carla  GUNNING,F (79),FS (17),Lord Mayors 5 Alive Challenege,00:27:34,00:27:47
+262,385,Susan  O'DONNELL,F (80),F40 (22),Balbriggan Roadrunners,00:27:27,00:27:49
+263,528,Deirdre  EARLY,F (81),F50 (11),Run BMC,00:27:27,00:27:51
+265,291,Mary  MCCARTHY,F (81),F50 (11),Run BMC,00:27:27,00:27:51
+264,437,Paul  REID,M (182),M40 (29),,00:27:14,00:27:51
+266,736,Kim  BAILEY,F (83),F50 (13),Run BMC,00:27:27,00:27:52
+267,329,Anne  MOFFATT,F (84),F50 (14),Run BMC,00:27:30,00:27:53
+268,721,Kevin  BRADY,M (183),M35 (34),MSB,00:27:29,00:27:55
+269,408,James  O'TOOLE,M (184),M40 (30),Lord Mayors 5 Alive Challenege,00:27:30,00:27:58
+270,503,Dara  BOLAND,M (185),MS (43),,00:20:30,00:28:00
+271,130,Gillian  DUFFITT,F (85),F45 (14),,00:27:50,00:28:00
+272,350,Ailbhe  MURPHY,F (86),F35 (19),Lord Mayors 5 Alive Challenege,00:27:54,00:28:02
+273,366,Gay  NOLAN,F (87),F45 (15),Lord Mayors 5 Alive Challenege,00:27:55,00:28:03
+274,510,Niall  CAMPBELL,M (186),MS (44),,00:27:24,00:28:04
+275,122,Gary  DOWDALL,M (187),M45 (29),,00:27:52,00:28:06
+276,326,Barbara  MICHALIK,F (88),FS (18),Slogger 2 Joggers,00:27:58,00:28:07
+277,56,Stephanie  CARRAGHER,F (89),FS (19),Balbriggan Roadrunners,00:27:46,00:28:08
+278,509,Susan  BYRNE,F (89),F45 (16),,00:27:30,00:28:08
+279,501,Joanne  BEAMISH,F (91),F40 (23),,00:27:53,00:28:13
+280,218,Paul  HYLAND,M (188),M45 (30),Lord Mayors 5 Alive Challenege,00:27:49,00:28:15
+281,167,Robert  FRANCIS,M (188),M50 (50),Waterstown Warriors,00:27:47,00:28:15
+282,219,Avril  HYLAND,F (92),F45 (17),Lord Mayors 5 Alive Challenege,00:27:52,00:28:16
+284,712,Jane  MITCHELL,F (93),M50 (51),,00:28:15,00:28:17
+283,263,Richard  LEONARD,M (190),M50 (51),Waterstown Warriors,00:27:48,00:28:17
+285,246,Grainne  KIERNAN,F (94),F50 (15),Lord Mayors 5 Alive Challenege,00:27:58,00:28:19
+286,747,Helene  SANLAVILLE,F (95),F50 (16),,00:28:17,00:28:20
+287,541,Maria  HYNES,F (96),F40 (24),,00:27:49,00:28:22
+288,159,Brian  FLAHERTY,M (191),M35 (35),Lord Mayors 5 Alive Challenege,00:28:00,00:28:22
+289,126,Josephine  DOYLE,F (97),F45 (18),Lord Mayors 5 Alive Challenege,00:28:18,00:28:25
+290,287,Irene  MCCABE,F (98),F35 (20),,00:28:01,00:28:28
+291,74,Suzanne  COLLINS,F (99),F40 (25),Lord Mayors 5 Alive Challenege,00:28:14,00:28:29
+292,410,Hamish  OLIPHANT,M (192),M50 (53),,00:28:19,00:28:30
+293,5,David  ASHE,M (192),M35 (36),,00:28:04,00:28:30
+294,140,Helen  EVERS,F (100),F40 (26),Lord Mayors 5 Alive Challenege,00:28:14,00:28:31
+294,324,Laura  MEIGHAN,F (100),F40 (26),Lord Mayors 5 Alive Challenege,00:28:11,00:28:31
+296,432,Denise  REDDY,F (102),F45 (19),Lord Mayors 5 Alive Challenege,00:28:30,00:28:36
+297,23,Bryan  BOYLE,M (194),M40 (31),,00:28:03,00:28:38
+298,14,Paul  BLANCHFIELD,M (195),MS (45),,00:28:36,00:28:39
+299,527,Ian  DUTTON,M (196),MS (46),5 Alive / Waterstown Warriors,00:28:12,00:28:41
+300,177,Carol  GEOGHEGAN,F (103),F45 (20),Lord Mayors 5 Alive Challenege,00:28:44,00:28:49
+301,142,Josie  FAGAN,F (104),F50 (17),Lord Mayors 5 Alive Challenege,00:28:29,00:28:51
+302,374,Jack  O'BRIEN,M (197),MS (47),Lord Mayors 5 Alive Challenege,00:28:30,00:28:58
+303,745,David  BRADY,M (197),M50 (54),Raheny Shamrock AC,00:28:45,00:28:58
+304,313,Hilary  MCGUIRE,F (105),F35 (21),Slogger 2 Joggers,00:28:28,00:29:06
+306,498,Bernadette  WRIGHT,F (105),F45 (21),Slogger 2 Joggers,00:28:28,00:29:06
+306,409,Heather  O'TUAIRISG,F (105),F35 (21),Lord Mayors 5 Alive Challenege,00:28:28,00:29:06
+308,144,Sean  FALLON,M (199),M50 (55),,00:28:40,00:29:06
+305,583,Eleanor  RYAN,F (105),FS (20),,00:28:49,00:29:06
+309,248,David  KING,M (200),MS (48),Lord Mayors 5 Alive Challenege,00:28:56,00:29:07
+310,243,Cliona  KEOGH,F (109),FS (21),Lord Mayors 5 Alive Challenege,00:28:57,00:29:08
+311,425,Tatiana  PODOLSKI-CZAJKA,F (109),F35 (23),Lord Mayors 5 Alive Challenege,00:29:05,00:29:08
+312,37,Catherine  BRODIGAN,F (111),F35 (24),,00:28:38,00:29:09
+313,475,Suzy  TAYLOR,F (112),FS (22),Marathon Club Ireland,00:29:05,00:29:19
+315,767,Susan  DOHERTY,F (113),F40 (28),Kilkenny AC,00:28:28,00:29:20
+314,766,Ryan  DOHERTY,M (201),MS (49),,00:28:31,00:29:20
+315,433,Caroline  REDMOND,F (113),F50 (18),Lord Mayors 5 Alive Challenege,00:29:03,00:29:20
+317,330,Sveltena  MOLLOY,F (115),F45 (22),Lord Mayors 5 Alive Challenege,00:29:10,00:29:21
+318,109,Celine  DELANEY,F (115),F45 (22),Lord Mayors 5 Alive Challenege,00:29:03,00:29:21
+319,396,Anne  O'LOUGHLIN,F (115),F35 (25),Lord Mayors 5 Alive Challenege,00:29:11,00:29:21
+320,435,Caroline  REGAN,F (118),F50 (19),Lord Mayors 5 Alive Challenege,00:29:16,00:29:22
+321,354,Trish  MURRAY,F (119),F40 (29),Lord Mayors 5 Alive Challenege,00:29:17,00:29:24
+322,486,Ann  WALSH,F (119),F40 (29),Slogger 2 Joggers,00:28:59,00:29:24
+324,157,John  FITZSIMONS,M (202),M50 (56),Crusaders AC,00:28:44,00:29:27
+323,107,Ann  Marie,F (121),F35 (26),Lord Mayors 5 Alive Challenege,00:29:14,00:29:27
+324,499,Niklaus  WUERSTEN,M (202),M50 (56),,00:28:55,00:29:27
+327,473,Susan  SPILLANE,F (122),F40 (31),Lord Mayors 5 Alive Challenege,00:29:16,00:29:28
+326,726,Catherine  FARRELL,F (122),F50 (20),Waterstown Warriors,00:28:59,00:29:28
+328,110,Thomas  DELANEY,M (204),M50 (58),Lord Mayors 5 Alive Challenege,00:29:23,00:29:41
+329,431,Elaine  QUINN,F (124),F45 (24),Lord Mayors 5 Alive Challenege,00:29:35,00:29:42
+330,71,Dave  COLEMAN,M (205),M50 (59),,00:29:33,00:29:45
+331,471,Joy  SMITH,F (125),F50 (21),,00:29:37,00:29:45
+332,356,Jeanne  MURRAY,F (125),F45 (25),,00:28:59,00:29:45
+333,149,Trina  FARRELLY,F (127),FS (23),Lord Mayors 5 Alive Challenege,00:29:36,00:29:48
+334,185,Emer  GRAHAM,F (127),F35 (27),Waterstown Warriors,00:29:18,00:29:48
+335,327,Colette  MILLER,F (129),F40 (32),,00:29:14,00:29:53
+336,372,Mary  O'BRIEN,F (130),F40 (33),Lord Mayors 5 Alive Challenege,00:29:47,00:29:55
+337,92,Paul  CORRIGAN,M (206),M35 (37),,00:29:38,00:30:04
+338,594,Sharon  TUCKER,F (131),F40 (34),Slogger 2 Joggers,00:29:45,00:30:06
+339,188,Lucia  GUERRINI,F (132),F45 (26),Slogger 2 Joggers,00:29:43,00:30:07
+340,489,Leah  WARD,F (132),FS (24),Lord Mayors 5 Alive Challenege,00:29:44,00:30:07
+341,513,Brian  CAVANAGH,M (207),M50 (60),,00:29:46,00:30:09
+342,174,Debbie  GARNER,F (134),F35 (28),Lord Mayors 5 Alive Challenege,00:30:02,00:30:10
+343,121,Leona  DORNEY,F (135),FS (25),Belgooly,00:29:31,00:30:13
+344,154,Claire-Ann  FERRY,F (136),F45 (27),Civil Service Harriers,00:29:47,00:30:14
+345,430,Marie  QUINLAN,F (137),F50 (22),Lord Mayors 5 Alive Challenege,00:29:54,00:30:15
+345,587,Clare  SPAIN,F (137),F35 (29),,00:29:41,00:30:15
+347,521,Joe  CUNNINGHAM,M (208),M50 (61),,00:29:50,00:30:16
+347,272,Jacqui  LYNCH,F (139),F45 (28),Slogger 2 Joggers,00:29:53,00:30:16
+349,402,Aileen  O'REILLY,F (140),F45 (29),Lord Mayors 5 Alive Challenege,00:29:57,00:30:17
+352,228,Lisa  KEANE,F (141),F40 (35),Lord Mayors 5 Alive Challenege,00:30:12,00:30:19
+350,76,Margaret  COLLINS,F (141),F40 (35),,00:29:35,00:30:19
+351,238,Adrienne  KELLY,F (141),F40 (35),,00:30:12,00:30:19
+353,339,Sinead  MORGAN,F (144),F40 (38),,00:29:55,00:30:20
+353,323,Dorothea  MEADE,F (144),F45 (30),Lord Mayors 5 Alive Challenege,00:29:59,00:30:20
+355,593,Hilary  SWEENEY,F (146),F40 (39),,00:29:49,00:30:21
+356,73,Dearbhla  COLHOUN,F (147),F40 (40),Lord Mayors 5 Alive Challenege,00:30:04,00:30:23
+357,312,Kevin  MCGRATH,M (209),M35 (38),,00:29:59,00:30:24
+358,211,Elaine  HOLLOWED,F (148),F35 (30),Lord Mayors 5 Alive Challenege,00:30:17,00:30:29
+359,384,Gillian  O'CONNOR,F (149),FS (26),Lord Mayors 5 Alive Challenege,00:29:48,00:30:30
+361,20,Caroline  BOYLAN,F (150),F35 (31),Lord Mayors 5 Alive Challenege,00:30:11,00:30:31
+360,508,Pauline  BYRNE,F (150),F40 (41),Lord Mayors 5 Alive Challenege,00:30:11,00:30:31
+362,187,Amanda  GRIFFIN,F (150),F35 (31),Slogger 2 Joggers,00:30:09,00:30:31
+363,495,Edel  WHYTE,F (150),F40 (41),Waterstown Warriors,00:30:16,00:30:31
+366,524,Jillian  DAWSON,F (154),F35 (33),RSP,00:30:23,00:30:34
+364,282,Tony  MARNELL,M (210),M45 (31),Lord Mayors 5 Alive Challenege,00:30:01,00:30:34
+365,64,Rachel  CLARK,F (154),FS (27),,00:30:06,00:30:34
+367,383,Richard  O'CONNOR,M (211),MS (50),Lord Mayors 5 Alive Challenege,00:29:54,00:30:36
+368,376,Rod  O'BRIEN,M (212),M45 (32),Lord Mayors 5 Alive Challenege,00:30:28,00:30:53
+369,117,Karl  DONNELLY,M (212),M40 (32),Waterstown Warriors,00:30:18,00:30:53
+370,266,Rebecca  LIVELY,F (156),FS (28),Lord Mayors 5 Alive Challenege,00:30:17,00:30:56
+371,82,Juliana  CONROY,F (156),F35 (34),Lord Mayors 5 Alive Challenege,00:30:25,00:30:56
+372,559,Morgan  MCEVOY,M (214),MS (51),,00:30:38,00:31:02
+373,162,Ty  FLEMING,M (215),M45 (33),Lord Mayors 5 Alive Challenege,00:30:40,00:31:05
+374,47,Siobhan  BUCKNELL,F (158),F35 (35),,00:29:53,00:31:12
+375,269,Ciara  LOSTY,F (159),F35 (36),Lord Mayors 5 Alive Challenege,00:30:37,00:31:13
+376,251,Anne  KINSELLA,F (159),F35 (36),Lord Mayors 5 Alive – S to J,00:30:53,00:31:13
+377,758,Claire  REDMIND,F (161),F45 (31),Forget the Gym,00:31:05,00:31:14
+379,485,Edel  VAN,F (162),F40 (43),Waterstown Warriors,00:31:02,00:31:17
+378,710,Colin  MCGOVERN,M (216),M40 (33),,00:30:40,00:31:17
+380,746,Maria  GIBBONS,F (163),F50 (23),,00:30:42,00:31:20
+382,362,Gemma  NEWMAN,F (164),FS (29),,00:30:49,00:31:27
+381,60,Carmel  CAVANAGH,F (164),F50 (24),Waterstown Warriors,00:30:58,00:31:27
+384,450,Louise  SCANNELL,F (166),F35 (38),Lord Mayors 5 Alive Challenege,00:31:19,00:31:32
+383,492,Denise  WHELAN,F (166),F45 (32),Lord Mayors 5 Alive Challenege,00:31:07,00:31:32
+386,212,Barbara  HOPKINS,F (168),F50 (25),Lord Mayors 5 Alive Challenege,00:31:17,00:31:40
+385,518,Ciara  COUSINS,F (168),FS (30),,00:30:56,00:31:40
+387,519,Ciaran  COUSINS,M (217),M50 (62),,00:30:57,00:31:41
+388,270,Aoibhin  LUBY,F (170),F40 (44),Lord Mayors 5 Alive Challenege,00:31:14,00:31:45
+389,321,Hilary  MCNAMARA,F (171),F45 (33),Lord Mayors 5 Alive Challenege,00:31:28,00:31:48
+390,158,Lorraine  FITZSIMONS,F (172),F50 (26),,00:30:50,00:31:54
+391,463,Valerie  SHYNE,F (173),F45 (34),,00:31:40,00:31:57
+392,16,Lisa  BOWERS,F (174),FS (31),,00:31:56,00:31:59
+393,584,Therese  RYAN,F (175),FS (32),,00:31:45,00:32:02
+394,319,Patricia  MCLOUGHLIN,F (176),F40 (45),,00:31:28,00:32:04
+395,69,Eimear  COLE,F (177),F40 (46),Lord Mayors 5 Alive Challenege,00:31:53,00:32:05
+396,163,Denise  FLOOD,F (178),F50 (27),Lord Mayors 5 Alive Challenege,00:31:51,00:32:08
+397,120,Miriam  DORAN,F (179),F45 (35),Lord Mayors 5 Alive Challenege,00:31:47,00:32:09
+398,760,Boyana  BOEVA,F (179),FS (33),,00:31:44,00:32:09
+399,455,Pamela  SCULLY,F (181),F50 (28),Lord Mayors 5 Alive Challenege,00:31:52,00:32:10
+399,61,Corine  CHEE,F (181),F50 (28),Lord Mayors 5 Alive Challenege,00:31:47,00:32:10
+401,757,Niamh  MAGUIRE,F (183),F45 (36),Forget the Gym,00:32:03,00:32:11
+402,168,Keith  FRANZONI,M (218),M45 (34),Lord Mayors 5 Alive Challenege,00:30:48,00:32:14
+403,22,Niamh  BOYLE,F (184),F45 (37),Lord Mayors 5 Alive Challenege,00:32:06,00:32:17
+403,360,Nessa  NEILSON,F (184),F40 (47),Lord Mayors 5 Alive Challenege,00:32:06,00:32:17
+405,191,Olga  HAMMERSLEY,F (186),F35 (39),Lord Mayors 5 Alive Challenege,00:32:04,00:32:27
+406,284,Veronica  MCARDLE,F (187),F35 (40),Forget the Gym,00:32:02,00:32:28
+407,595,Bernie  TUNNEY,F (188),F50 (30),Lord Mayors 5 Alive Challenege,00:32:12,00:32:29
+408,418,Miriam  PERKINS,F (189),F50 (31),Bros Pearse AC,00:32:06,00:32:30
+409,252,Peig  LALLY,F (190),F50 (32),Lord Mayors 5 Alive Challenege,00:31:54,00:32:31
+410,125,Shaun  DOYLE,M (219),MS (52),Lord Mayors 5 Alive Challenege,00:31:54,00:32:31
+411,229,Olga  KEARNEY,F (191),F35 (41),Lord Mayors 5 Alive Challenege,00:32:00,00:32:32
+413,467,Rachel  SMITH,F (192),F40 (48),Lord Mayors 5 Alive Challenege,00:32:10,00:32:34
+414,434,MÍChÉAl  REGAN,M (220),M50 (63),Malahide Parkrun,00:32:03,00:32:34
+412,235,Louise  KELLY,F (192),FS (34),Slogger 2 Joggers,00:32:01,00:32:34
+415,35,Laura  BRENNAN,F (194),F35 (42),Slogger 2 Joggers,00:32:03,00:32:36
+415,17,Fiona  BOYD,F (194),F35 (42),Lord Mayors 5 Alive – S to J,00:32:11,00:32:36
+417,89,Jennifer  CORCORAN,F (196),F40 (49),Lord Mayors 5 Alive Challenege,00:32:03,00:32:42
+418,285,Deborah  MCARDLE,F (196),F50 (33),Lord Mayors 5 Alive Challenege,00:32:03,00:32:42
+419,3,Nadia  ANSHASI,F (198),FS (35),Lord Mayors 5 Alive Challenege,00:32:05,00:32:50
+420,152,Maria  Giovanna,F (199),FS (36),,00:32:24,00:32:51
+421,210,Carol  HOLLAND,F (200),F45 (38),Crewella,00:32:31,00:32:54
+422,54,Tara  CALDER,F (201),FS (37),Waterstown Warriors,00:32:36,00:33:04
+423,307,Lorraine  MCGOWAN,F (202),F45 (39),Lord Mayors 5 Alive Challenege,00:32:59,00:33:12
+423,2,Janice  ALLEN,F (202),F40 (50),Lord Mayors 5 Alive Challenege,00:32:59,00:33:12
+425,108,Jennifer  DAVIS,F (204),F40 (51),Lord Mayors 5 Alive Challenege,00:32:43,00:33:14
+426,132,Phyllis  DUNNE,F (205),F50 (34),Slogger 2 Joggers,00:32:56,00:33:17
+427,226,Norma  KAVANAGH,F (206),F35 (44),5 Alive / Waterstown Warriors,00:32:48,00:33:18
+428,415,Louis  PARMINTER,M (221),M40 (34),5 Alive / Waterstown Warriors,00:32:46,00:33:23
+428,268,Brendan  LOSTY,M (221),M50 (64),Lord Mayors 5 Alive Challenege,00:32:48,00:33:23
+430,451,Ellen  SCHOENFELDER,F (207),FS (38),,00:32:45,00:33:25
+431,133,Louise  EGAN,F (208),FS (39),Lord Mayors 5 Alive Challenege,00:33:17,00:33:34
+432,578,Richard  PENDER,M (223),M50 (65),,00:32:54,00:33:37
+433,293,Aideen  MCCORMACK,F (209),F45 (40),Lord Mayors 5 Alive Challenege,00:33:23,00:33:38
+434,456,Sarah  SEERY,F (210),FS (40),Slogger 2 Joggers,00:33:31,00:33:41
+435,315,Anita  MCKEATING,F (211),F40 (52),Slogger 2 Joggers,00:33:31,00:33:42
+436,488,Sarah  WALSHE,F (212),FS (41),,00:33:10,00:33:48
+438,77,Rebecca  CONLON,F (213),F45 (41),,00:33:36,00:33:54
+437,170,Fiona  GAFFNEY,F (213),F40 (53),Lord Mayors 5 Alive Challenege,00:33:35,00:33:54
+439,567,Brendan  MURPHY,M (224),M35 (39),Lord Mayors 5 Alive Challenege,00:33:40,00:33:56
+440,406,Kevin  O'TOOLE,M (225),M50 (66),Lord Mayors 5 Alive Challenege,00:33:48,00:33:58
+441,18,Liz  BOYD,F (215),F40 (54),Lord Mayors 5 Alive Challenege,00:33:45,00:34:05
+442,557,Stephen  MCCOY,M (226),M40 (35),,00:33:29,00:34:05
+443,529,Carl  EGAN,M (227),M40 (36),,00:33:30,00:34:06
+445,105,Maureen  DALY,F (216),F50 (35),Lord Mayors 5 Alive Challenege,00:34:02,00:34:08
+444,317,Emily  MCKENNA,F (216),F35 (45),Slogger 2 Joggers,00:34:01,00:34:08
+446,204,Syro  HICKEY,F (218),F40 (55),Lord Mayors 5 Alive Challenege,00:33:50,00:34:10
+447,143,Grainne  FAHEY,F (218),F40 (55),Lord Mayors 5 Alive Challenege,00:33:51,00:34:10
+448,731,Gerard  MURPHY,M (228),M50 (67),,00:34:09,00:34:12
+449,289,Teresa  MCCARTHY,F (220),F50 (36),Lord Mayors 5 Alive Challenege,00:33:45,00:34:15
+450,542,Andrea  IRVINE,F (221),F50 (37),,00:34:17,00:34:17
+451,308,Debra  MCGRANE,F (222),F50 (38),Lord Mayors 5 Alive Challenege,00:33:34,00:34:18
+452,225,Martina  KAVANAGH,F (223),F45 (42),Lord Mayors 5 Alive Challenege,00:33:53,00:34:26
+454,477,Hilary  THIRNTON,F (224),F45 (43),Lord Mayors 5 Alive Challenege,00:34:12,00:34:27
+453,93,Lorraine  COSTIGAN,F (224),F50 (39),Waterstown Warriors,00:34:12,00:34:27
+455,180,Helen  GILL,F (226),F40 (57),Lord Mayors 5 Alive Challenege,00:33:52,00:34:38
+457,274,Sharon  LYONS,F (227),F40 (58),Lord Mayors 5 Alive Challenege,00:34:22,00:34:40
+456,468,Mary  SMITH,F (227),FS (42),Lord Mayors 5 Alive Challenege,00:34:12,00:34:40
+458,465,Hajar  SLATTERY,F (229),F35 (46),Lord Mayors 5 Alive Challenege,00:34:30,00:34:45
+459,401,Jean  O'REILLY,F (230),F50 (40),Lord Mayors 5 Alive Challenege,00:34:29,00:34:46
+460,427,Audrey  PRIOR,F (231),F35 (47),Lord Mayors 5 Alive Challenege,00:34:24,00:34:48
+461,175,Aileen  GARRIHY,F (232),F35 (48),Lord Mayors 5 Alive Challenege,00:34:30,00:34:51
+462,240,Karen  KENNEDY,F (233),F40 (59),Star of the Sea,00:34:47,00:35:00
+463,310,Sandra  MCGRATH,F (234),F45 (44),Star of the Sea,00:34:47,00:35:01
+464,186,Tina  GRIFFIN,F (235),F45 (45),Lord Mayors 5 Alive Challenege,00:34:51,00:35:08
+465,404,Elaine  O'ROURKE,F (236),F40 (60),Lord Mayors 5 Alive Challenege,00:34:56,00:35:11
+466,85,Geraldine  COOGAN,F (237),F45 (46),Lucan Harriers Fit 4 Life,00:34:58,00:35:12
+467,553,Anne  MANNING,F (238),F50 (41),,00:34:40,00:35:18
+469,63,Molly  CLARK,F (239),F50 (42),,00:34:51,00:35:19
+468,733,Niamh  HICKEY,F (239),F35 (49),,00:34:43,00:35:19
+470,351,Jennifer  MURPHY,F (241),F35 (50),Lord Mayors 5 Alive Challenege,00:35:04,00:35:20
+471,574,Rachael  O'DONOGHUE,F (242),F45 (47),,00:31:00,00:35:21
+472,65,Niamh  CLARKE,F (243),F40 (61),Lord Mayors 5 Alive Challenege,00:35:11,00:35:28
+473,363,Miriam  NI,F (244),F35 (51),Lord Mayors 5 Alive Challenege,00:35:17,00:35:34
+475,512,Angela  CASSIDY,F (245),F50 (43),Lord Mayors 5 Alive Challenege,00:35:10,00:35:35
+474,322,Aoife  MCSWINEY,F (245),F40 (62),,00:35:09,00:35:35
+476,711,Sandra  CULLEN,F (247),F45 (48),,00:35:37,00:35:38
+479,147,Edel  FARRELL,F (248),F35 (52),Lord Mayors 5 Alive Challenege,00:35:34,00:35:45
+478,539,Paul  HARPER,M (229),M50 (68),Lord Mayors 5 Alive Challenege,00:35:19,00:35:45
+477,438,Nathalie  REILLY,F (248),F45 (49),5 Alive / Waterstown Warriors,00:35:11,00:35:45
+480,184,Deirdre  GOULDING-KELLY,F (250),F45 (50),Lord Mayors 5 Alive Challenege,00:35:28,00:35:51
+481,202,Sharon  HENNESSY,F (251),F45 (51),Lord Mayors 5 Alive Challenege,00:35:25,00:35:53
+481,201,Paul  HENNESSY,M (230),M45 (35),Lord Mayors 5 Alive Challenege,00:35:26,00:35:53
+483,386,Adrienne  O'DOWD,F (252),F40 (63),Lord Mayors 5 Alive Challenege,00:35:43,00:35:58
+485,506,Laura  BROOKS,F (252),F35 (53),,00:32:28,00:35:58
+484,101,Nuala  CURLEY,F (252),F50 (44),Waterstown Warriors,00:35:42,00:35:58
+486,420,Alan  PHELAN,M (231),M40 (37),Waterstown Warriors,00:35:30,00:35:59
+488,405,Niamh  O'SULLIVAN,F (255),F35 (54),Lord Mayors 5 Alive Challenege,00:35:36,00:36:00
+487,380,Abi  O'CONNELL,F (255),FS (43),Lord Mayors 5 Alive Challenege,00:35:36,00:36:00
+490,448,Katja  SAVOLAINEN,F (257),F35 (55),,00:35:34,00:36:02
+489,127,Grace  DOYLE,F (257),FS (44),Slogger 2 Joggers,00:35:39,00:36:02
+491,316,Deirdre  MCKELVEY,F (259),F45 (52),Slogger 2 Joggers,00:35:41,00:36:03
+492,295,Joanna  MCCORMACK,F (260),F35 (56),,00:35:27,00:36:12
+493,328,Ger  MOFFATT,M (232),M50 (69),Run BMC,00:35:54,00:36:18
+494,357,Carl  NANGLE,M (233),M35 (40),Lord Mayors 5 Alive Challenege,00:35:33,00:36:19
+495,472,Dale  SPENCER,F (261),F50 (45),,00:35:44,00:36:24
+496,48,Brenda  BUGGLE,F (262),F50 (46),Lord Mayors 5 Alive Challenege,00:36:13,00:36:25
+497,417,Pia  PENSER,F (263),F45 (53),Lord Mayors 5 Alive Challenege,00:36:06,00:36:26
+498,572,Pat  NEWHAM,M (234),M50 (70),Lord Mayors 5 Alive Challenege,00:36:21,00:36:28
+500,441,Kamil  RODAK,M (235),M35 (41),Polish Run Team,00:35:50,00:36:33
+499,442,Aneta  RODAK,F (264),FS (45),Polish Run Team,00:35:49,00:36:33
+501,206,Simone  HIGGINS,F (265),F45 (54),,00:36:14,00:36:34
+502,190,Tina  HALLISSEY,F (266),F50 (47),Lord Mayors 5 Alive Challenege,00:36:17,00:36:44
+503,599,Maria  WYLIE,F (267),F45 (55),Lord Mayors 5 Alive Challenege,00:36:19,00:36:46
+504,575,Maeve  O'REILLY,F (268),F45 (56),Lord Mayors 5 Alive Challenege,00:36:20,00:36:47
+505,332,Kate  MOLPHY,F (269),F40 (64),Lord Mayors 5 Alive Challenege,00:36:32,00:36:58
+506,303,Lynne  MCGLYNN,F (270),F40 (65),Slogger 2 Joggers,00:36:41,00:37:06
+507,258,Clodagh  LAWRENCE,F (271),F40 (66),Lord Mayors 5 Alive Challenege,00:36:52,00:37:11
+508,79,Caroline  CONNOLLY,F (272),F45 (57),5 Alive / Waterstown Warriors,00:36:44,00:37:17
+510,279,Siobhan  MALONE,F (273),F35 (57),5 Alive / Waterstown Warriors,00:36:44,00:37:18
+509,337,Fiona  MOORE,F (273),F40 (67),5 Alive / Waterstown Warriors,00:36:44,00:37:18
+511,10,Ann  BATTERSBY,F (275),F50 (48),Lord Mayors 5 Alive Challenege,00:37:29,00:37:46
+512,367,Amelia  NOLAN,F (275),F40 (68),Lord Mayors 5 Alive Challenege,00:37:28,00:37:46
+513,62,Angela  CHOPIN,F (277),FS (46),Slogger 2 Joggers,00:37:28,00:37:51
+514,347,Cynthia  MULLINS,F (278),F50 (49),Waterstown Warriors,00:37:34,00:37:52
+515,165,Maura  FLYNN,F (278),F50 (49),Waterstown Warriors,00:37:34,00:37:52
+516,286,CiarÁN  MCARDLE,M (236),MS (53),Lord Mayors 5 Alive Challenege,00:37:10,00:37:54
+517,90,Ray  CORCORAN,M (236),M45 (36),Lord Mayors 5 Alive Challenege,00:37:10,00:37:54
+518,753,Gerry  FOGARTY,M (238),M50 (71),,00:37:28,00:38:02
+519,15,Alice  BOARDMAN,F (280),F35 (58),Lord Mayors 5 Alive Challenege,00:38:02,00:38:25
+521,419,Mary  PHELAN,F (281),F50 (51),Lord Mayors 5 Alive Challenege,00:37:47,00:38:26
+520,755,Michael  O'NEILL,M (239),M50 (72),,00:38:17,00:38:26
+522,237,Ciara  KELLY,F (282),F35 (59),,00:37:56,00:38:27
+523,375,David  O'BRIEN,M (240),M50 (73),Lord Mayors 5 Alive Challenege,00:38:28,00:38:38
+524,115,Jennifer  DOLAN,F (283),F40 (69),,00:38:06,00:38:39
+525,214,Dympna  HOUSTON,F (284),FS (47),Waterstown Warriors,00:38:42,00:39:09
+526,233,Susan  KELLY,F (285),F50 (52),Lord Mayors 5 Alive Challenege,00:38:35,00:39:22
+527,275,Sharon  M,F (286),F45 (58),Lord Mayors 5 Alive Challenege,00:38:45,00:39:23
+528,382,Eimear  O'CONNOR,F (287),F35 (60),Lord Mayors 5 Alive Challenege,00:39:08,00:39:28
+529,346,Brid  MULLIGAN,F (288),F50 (53),Lord Mayors 5 Alive Challenege,00:39:13,00:39:31
+530,1,June  ALCOCK,F (289),F50 (54),Slogger 2 Joggers,00:39:22,00:39:37
+531,480,Frances  TOBIN,F (290),F50 (55),Slogger 2 Joggers,00:39:24,00:39:38
+532,300,Kate  MCDONNELL,F (291),FS (48),Waterstown Warriors,00:39:33,00:39:51
+533,31,Karen  BRANIGAN,F (292),F40 (70),,00:39:55,00:40:02
+534,342,Sinead  MORRISSEY,F (293),F35 (61),Dublin Bay Running Club,00:39:43,00:40:04
+535,46,Elma  BUCKLEY,F (294),F40 (71),,00:39:29,00:40:08
+536,161,Olga  FLEMING,F (295),F45 (59),Lord Mayors 5 Alive Challenege,00:40:13,00:40:21
+537,66,Yvonne  CLARKE,F (296),F35 (62),Lord Mayors 5 Alive Challenege,00:40:03,00:40:24
+538,474,Deirdre  STYNES,F (296),F40 (72),Lord Mayors 5 Alive – S to J,00:40:05,00:40:24
+539,335,Joanne  MONKS,F (298),F40 (73),Lord Mayors 5 Alive Challenege,00:40:19,00:40:34
+540,318,Lynn  MCLOUGHLIN,F (298),F40 (73),Lord Mayors 5 Alive Challenege,00:40:18,00:40:34
+541,45,Brenda  BUCKLEY,F (300),F45 (60),Slogger 2 Joggers,00:40:18,00:40:40
+543,292,Lorraine  MCCORMAC,F (301),F45 (61),5 Alive / Waterstown Warriors,00:40:13,00:40:51
+543,102,Elaine  CURTIS,F (301),F45 (61),5 Alive / Waterstown Warriors,00:40:12,00:40:51
+542,194,Teresa  HARTFORD,F (301),F50 (56),Lord Mayors 5 Alive Challenege,00:40:06,00:40:51
+545,236,Denyse  KELLY,F (304),F40 (75),Waterstown Warriors,00:40:15,00:40:52
+547,55,Susan  CAREY,F (305),F40 (76),Slogger 2 Joggers,00:40:38,00:40:59
+546,116,Caitriona  DONNELLY,F (305),F40 (76),Lord Mayors 5 Alive – S to J,00:40:37,00:40:59
+548,164,Susan  FLOOD,F (307),F45 (63),Lord Mayors 5 Alive Challenege,00:40:43,00:41:03
+549,397,Ciaran  O'MUIRTHILE,M (241),M35 (42),,00:36:09,00:41:08
+550,78,Joan  CONNAUGHTON,F (308),F45 (64),Lord Mayors 5 Alive Challenege,00:41:03,00:41:22
+551,358,Danielle  NANGLE,F (309),FS (49),Lord Mayors 5 Alive Challenege,00:40:13,00:41:26
+552,11,Teresa  BEAUSANG,F (310),F35 (63),,00:36:27,00:41:28
+554,86,Irene  COONEY,F (311),F45 (65),My Personal Trainer/Michael English,00:41:01,00:41:32
+553,598,Sharon  WOODS,F (311),F45 (65),Crusaders AC,00:41:01,00:41:32
+555,245,Emma  KIBERD,F (313),FS (50),Lord Mayors 5 Alive Challenege,00:41:26,00:41:40
+556,9,Rob  BARRABLE,M (242),MS (54),,00:40:59,00:41:51
+557,7,Olivia  BARRABLE,F (314),FS (51),Lord Mayors 5 Alive Challenege,00:41:00,00:41:52
+558,13,Trish  BERMINGHAM,F (315),F50 (57),Slogger 2 Joggers,00:41:43,00:42:02
+559,345,Brian  MULLALLY,M (243),MS (55),Lord Mayors 5 Alive Challenege,00:42:01,00:42:33
+560,344,Niall  MULLALLY,M (243),MS (55),Lord Mayors 5 Alive Challenege,00:42:00,00:42:33
+560,19,Sarah  BOYLAN,F (316),F35 (64),Lord Mayors 5 Alive Challenege,00:42:02,00:42:33
+562,222,Jacqueline  JAGO,F (317),F35 (65),Slogger 2 Joggers,00:42:37,00:42:51
+563,483,Vivienne  TRULOCK-HARDY,F (318),F40 (78),Waterstown Warriors,00:42:40,00:42:57
+564,111,Tina  DEMPSEY,F (319),F50 (58),Slogger 2 Joggers,00:43:49,00:44:00
+565,173,Ingrid  GARGAN,F (320),F45 (67),Lord Mayors 5 Alive Challenege,00:43:53,00:44:04
+566,478,Sandra  THORNBERRY,F (321),F40 (79),Slogger 2 Joggers,00:43:50,00:44:06
+567,464,Bernie  SIMPSON,F (322),F50 (59),,00:43:44,00:44:15
+568,42,Leesa  BROWNE,F (323),F35 (66),Slogger 2 Joggers,00:44:06,00:44:21
+569,586,Joanne  SMITH,F (324),F35 (67),Lord Mayors 5 Alive Challenege,00:44:13,00:45:03
+570,28,Brendan  BRADY,M (245),M45 (37),Waterstown Warriors,00:44:28,00:45:06
+571,41,Alan  BROWNE,M (246),M45 (38),Lord Mayors 5 Alive Challenege,00:44:17,00:45:07
+572,540,Audrey  HENNESSY,F (325),F35 (68),Lord Mayors 5 Alive Challenege,00:44:22,00:45:12
+573,27,Amanda  BRADY,F (326),F45 (68),Lord Mayors 5 Alive Challenege,00:44:46,00:45:23
+574,75,Michelle  COLLINS,F (326),F40 (80),,00:44:50,00:45:23
+575,128,Caroline  DOYLE,F (328),F45 (69),Waterstown Warriors,00:44:52,00:45:25
+576,737,Ann  Marie,F (329),F35 (69),,00:41:57,00:45:27
+578,364,CrÍOna  NI,F (330),F50 (60),Lord Mayors 5 Alive Challenege,00:45:12,00:45:34
+577,155,Claire  FITZGERALD,F (330),FS (52),Lord Mayors 5 Alive Challenege,00:45:11,00:45:34
+579,265,Natasha  LESTER,F (332),F40 (81),5 Alive / Waterstown Warriors,00:45:31,00:46:03
+581,387,Catherine  O'DRISCOLL,F (333),F50 (61),Slogger 2 Joggers,00:45:23,00:46:05
+580,213,Rebecca  HORAN,F (333),FS (53),,00:45:22,00:46:05
+582,299,Helena  MCDONNELL,F (335),F50 (62),Lord Mayors 5 Alive Challenege,00:45:32,00:46:14
+583,8,Linda  BARRABLE,F (335),F50 (62),Slogger 2 Joggers,00:45:31,00:46:14
+584,768,Sharon  DOHERTY,F (337),F40 (82),,00:46:17,00:46:17
+585,148,Cathrina  FARRELL,F (338),F50 (64),Slogger 2 Joggers,00:45:52,00:46:35
+586,305,Laura  MCGLYNN,F (339),F35 (70),Lord Mayors 5 Alive Challenege,00:48:14,00:49:05
+587,304,Ciara  MCGLYNN,F (339),FS (54),Lord Mayors 5 Alive Challenege,00:48:14,00:49:05
+589,526,Rachel  DUNNE,F (341),F40 (83),Waterstown Warriors,00:49:30,00:50:05
+588,725,Laura  RYAN,F (341),F35 (71),Waterstown Warriors,00:49:32,00:50:05
+590,565,Allison  MURPHY,F (343),F35 (72),Waterstown Warriors,00:49:43,00:50:18
+591,566,Suzanne  MURPHY,F (343),F45 (70),Waterstown Warriors,00:49:44,00:50:18
